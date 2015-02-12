@@ -1,0 +1,153 @@
+body{
+	background: #adadad;
+}
+
+#container {
+	width: 90%;
+	margin: 4em auto;
+
+}
+.marginfix{
+	height: 500px;
+	position: absolute;
+	width: 100%;
+}
+.event {
+	max-width: 200px;
+	background-color: #fff;
+	border-radius:5px; 
+	box-shadow: 0 0 2px #717473;
+	-webkit-transition:background 0.2s ease-out;
+	margin-top:2em;
+	min-height: 300px;
+
+}
+.event:hover > figure {
+	border-top-width: 20px;
+}
+.event:hover {
+	background: #eee;
+}
+.event figure {
+	max-width: 200px;
+	width: 100%;
+	position: relative;
+	border-top-style: solid;
+	border-top-width: 10px;
+	margin-top: 0.8em;
+	-webkit-transition: border 0.3s ease-in;
+	-moz-transition: border 0.3s ease-in;
+	-o-transition: border 0.3s ease-in;
+	transition: border 0.3s ease-in;
+	min-height: 230px;
+}
+.event figure img {
+	width: 100%;
+	height: auto;
+}
+.etitle {
+	position: absolute;
+	bottom: 1em;
+	width:96%;
+	font-size: 2em;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	opacity: 0.8;
+}
+.etitle p {
+	display: inline;
+	background: #000;
+	line-height: 1.5em;
+	padding-left: 0.3em;
+	padding-right: 0.2em;
+	text-transform: uppercase;
+}
+.summary {
+	padding: 0.8em;
+	text-align: justify;
+}
+.know {
+	background-color: #1bb06c;
+	border-radius:20px;
+	padding: 0.5em;
+	color: #fff;
+	border: none;
+	text-align: right;
+	margin-top:1em;
+	margin-left: 50%;
+	margin-bottom: 0.5em;
+	outline: none;
+}
+#dummy {
+	display: none;
+}
+#details {
+	display: none;
+	position: fixed;
+	top: 25%;
+	max-width: 1200px;
+	width: 95%;
+	z-index: 9;
+	left: 5%;
+	box-shadow: 0 10px 1px #aaa;
+	max-height: 500px;
+}
+.evname {
+	background-color: #ddd;
+}
+.evname h1 {
+	padding:1em;
+	font-size: 1.5em;
+	display: inline-block;
+}
+
+.edetails {
+	background: #fefefe;
+	padding: 2em;
+	max-height: 350px;
+	overflow-y:scroll;
+	text-align: justify;
+	padding-bottom: 3em;
+}
+.evname {
+	font-size: 1.5em;
+	font-family: 'Open Sans', sans-serif, Tahoma;
+
+}
+.edetails p{
+	line-height: 1.5em;
+	font-size: 1.2em;
+	padding-bottom: 1.5em
+}
+.edetails h2 {
+	font-size: 1.3em;
+	padding: 1.3em 1em;
+	display:block;
+	border-left: solid 5px #f2782e;
+	margin-bottom: 0.7em;
+}
+.edetails h3 {
+	font-size: 1.2em;
+	padding-left: 1.5em;
+	display: inline-block;
+	border-left: solid 4px #696969;
+	margin-bottom: 0.7em;
+}
+.edetails ol {
+	padding-bottom: 1.5em;
+	max-width: 70%;
+	line-height: 1.3em;
+	font-size: 1.1em;
+}
+.edetails a:hover {
+	color: orange !important;
+}
+.eclose {
+	float: right;
+	min-width: 32px;
+	min-height: 32px;
+	background : url('../assets/spirite.png') -400px 0 no-repeat;
+	margin-right: 1em;
+	margin-top: 0.5em;
+	cursor: pointer;
+}

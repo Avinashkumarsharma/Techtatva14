@@ -1,0 +1,26 @@
+<menu>
+	<![CDATA[
+	<li><a href="index.php">Home</a></li>
+        <li><a href="mit.php">MIT</a></li>
+        <li><a href="techtatva.php">Techtatva</a></li>
+       
+        <li><a href="http://techtatva.in/thestandard/">The Manipal Standard</a></li>
+         <li><a href="http://blog.techtatva.in">Blog</a></li>
+        <li><a href="http://register.techtatva.in/">Register</a></li>
+        <li><a href="featured.php">Featured Events</a></li>
+        <li><a href="featuredw.php">Featured Workshops</a></li>
+        <li><a href="events.php">Events</a></li>
+        <li><a href="conclave.php">Manipal Conclave</a></li>
+        <li><a href="workshops.php">Workshops</a></li>
+        <li><a href="gallery.php">Gallery</a></li>
+        <li><a href="schedule.php">Schedule</a></li>
+        <li><a href="http://online.techtatva.in/">Online Events</a></li>
+        <li><a href="sponsors.php">Sponsors</a></li>
+        <li class = "submenu" >
+          <ul >
+        </ul>
+      </li>
+      <li><a href="hospitality.php">Hospitality</a></li>
+      <li><a href="contact.php">Contact us</a></li>
+      ]]>
+</menu>

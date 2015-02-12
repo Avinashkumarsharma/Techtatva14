@@ -1,0 +1,15 @@
+acu= #005723
+air= #003557
+biz= #a20101
+che= #107608
+Con= #f8ff36
+cry= #1d3242
+ele= #2632a6
+ene= #114a33
+eps= #fd6f38
+giz= #193444
+kra= #f9d43e
+mec= #2c2b27
+rob= #17e9f6
+tur= #d31441
+

@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+<day id = "Day1">
+	<event id ="d11">
+	<time>
+		<dd>8th</dd>
+		<mm>Oct</mm>
+		<from>2:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ AB5 201, 202]]></place>
+	<name class = "circle-acu"><![CDATA[Weakest Link Of Aetiology (R1.1)]]></name>
+	<clash>
+		<e class = "circle-che" id = "d14">Chemeleon (R1)</e>
+		<e class = "circle-con" id = "d16">Conkreation(R1)</e>
+		<e class = "circle-cry" id = "d17">Bug Tracker(R1)</e>
+		<e class = "circle-ene" id = "d110">Eco-audit(R1)</e>
+		<e class = "circle-giz" id = "d114">foxhunt(R1)</e>
+		<e class = "circle-mec" id = "d116">Recreate Da Vinci (R1)</e>
+		<e class = "circle-met" id = "d118">Ballcoater(R1)</e>
+		<e class = "circle-met" id = "d119">Mindstorming(R1)</e>
+		<e class = "circle-rob" id = "d120">Break The maze</e>
+	</clash>
+	</event>
+
+	<event id ="d12">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[ AB5 201, 202]]></place>
+	<name class = "circle-acu">MIQ(R1)</name>
+	<clash>
+		<e class = "circle-con" id = "d155">Risky Towns(R1)</e>
+		<e class = "circle-ene" id = "d111">Swadesh(R1)</e>
+		<e class = "circle-eps" id = "d112">Scentia(R1)</e>
+		<e class = "circle-eps" id = "d113">Medapps(R1)</e>
+		<e class = "circle-giz" id = "d115">Dexters Den(R1)</e>
+		<e class = "circle-met" id = "d119">Mindstorming(R1)</e>
+		<e class = "circle-rob" id = "d120">Break The maze</e>
+	</clash>
+	</event>
+	<event id ="d13">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>6:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ AB5 201, 202]]></place>
+	<name class = "circle-acu">Elucidate(R1.1)</name>
+	<clash>
+		<e class = "circle-mec" id = "d116">Recreate Da Vinci (R2)</e>
+	</clash>
+	</event>
+		<event id ="d14">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>5:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 102, 103]]></place>
+	<name class = "circle-acu">Mayday(R1)</name>
+	<clash>
+		<e class = "circle-cry" id = "d17">Bug Tracker(R2)</e>
+		<e class = "circle-mec" id = "d116">Recreate Da Vinci (R2)</e>
+		<e class = "circle-rob" id = "d120">Break The maze</e>
+
+	</clash>
+	</event>
+	
+	<event id ="d15">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 303, 304]]></place>
+	<name class = "circle-biz">Venture Forth(R1)</name>
+	<clash>
+		<e class = "circle-che" id = "d14">Chemeleon (R1)</e>
+		<e class = "circle-con" id = "d16">Conkreation(R1)</e>
+		<e class = "circle-cry" id = "d17">Bug Tracker(R1)</e>
+		<e class = "circle-ene" id = "d110">Eco-audit(R1)</e>
+		<e class = "circle-giz" id = "d114">foxhunt(R1)</e>
+		<e class = "circle-mec" id = "d116">Recreate Da Vinci (R1)</e>
+		<e class = "circle-met" id = "d118">Ballcoater(R1)</e>
+		<e class = "circle-met" id = "d119">Mindstorming(R1)</e>
+		<e class = "circle-rob" id = "d120">Break The maze</e>
+	</clash>
+	</event>
+		<event id ="d16">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 204]]></place>
+	<name class = "circle-acu">Chemeleon (R1)</name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+		<e class = "circle-biz" id = "d11">Venture Forth(R1)</e>
+		<e class = "circle-con" id = "d16">Conkreation(R1)</e>
+		<e class = "circle-ele" id = "d19">Coil Gun(R1)</e>
+		<e class = "circle-ene" id = "d110">Eco-audit(R1)</e>
+		<e class = "circle-giz" id = "d114">foxhunt(R1)</e>
+		<e class = "circle-mec" id = "d116">Recreate Da Vinci (R1)</e>
+		<e class = "circle-met" id = "d119">Mindstorming(R1)</e>
+	</clash>
+	</event>
+	<event id ="d17">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 203, 205]]></place>
+	<name class = "circle-con">Risky Towns(R1)</name>
+	<clash>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+	</clash>
+	</event>
+	<event id ="d18">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 203]]></place>
+	<name class = "circle-con"><![CDATA[ Conkreation(R1) ]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+	</clash>
+	</event>
+	<event id ="d19">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>2:30 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 302, 303]]></place>
+	<name class = "circle-cry"><![CDATA[ Bug Tracker(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+		<e class = "circle-cry" id = "d14">Mayday(R1)</e>
+
+	</clash>
+	</event>
+	<event id ="d110">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>5:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 303]]></place>
+	<name class = "circle-cry"><![CDATA[ Bug Tracker(R2)]]></name>
+	<clash>
+		<e class = "circle-che" id = "d13"></e>
+	</clash>
+	</event>
+	<event id ="d111">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 102]]></place>
+	<name class = "circle-ele"><![CDATA[ Coil Gun (R1)]]></name>
+	<clash>
+		<e class = "circle-che" id = "d13"></e>
+	</clash>
+	</event>
+	<event id ="d112">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 302]]></place>
+	<name class = "circle-ene"><![CDATA[Eco-audit(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+
+	</clash>
+	</event>
+
+	<event id ="d113">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>4:30 PM</from>
+		<to>6:30 PM</to>
+	</time>
+	<place><![CDATA[ AB5 205 ]]></place>
+	<name class = "circle-ene"><![CDATA[Swadesh (R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+	</clash>
+	</event>
+	<event id ="d114">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[ AB5 203, 305 ]]></place>
+	<name class = "circle-ene"><![CDATA[Scentia(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+	</clash>
+	</event>
+	<event id ="d115">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>Entire</from>
+		<to>Day</to>
+	</time>
+	<place><![CDATA[ NLH top floor ]]></place>
+	<name class = "circle-sky"><![CDATA[Gaming]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+	</clash>
+	</event>
+	<event id ="d116">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 103 ]]></place>
+	<name class = "circle-giz"><![CDATA[Foxhunt(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+	</clash>
+	</event>
+	<event id ="d117">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 103 ]]></place>
+	<name class = "circle-giz"><![CDATA[Dexter's Den(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+
+	</clash>
+	</event>
+
+	<event id ="d118">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[AB1 Drqawing Hall ]]></place>
+	<name class = "circle-mec"><![CDATA[Recreate Da Vinci (R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+		<e class = "circle-mec" id = "d13">Elucidate(R1)</e>
+		<e class = "circle-cry" id = "d14">Mayday(R1)</e>
+	</clash>
+	</event>
+
+	<event id ="d119">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>6:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 304 ]]></place>
+	<name class = "circle-mec"><![CDATA[Recreate Da Vinci (R2)]]></name>
+	<clash>
+		<e class = "circle-che" id = "d13"></e>
+	</clash>
+	</event>
+
+	<event id ="d120">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>2:30 PM</from>
+		<to>3:30 PM</to>
+	</time>
+	<place><![CDATA[EG Hall]]></place>
+	<name class = "circle-met"><![CDATA[BallCoaster]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+	</clash>
+	</event>
+
+	<event id ="d121">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 104]]></place>
+	<name class = "circle-met"><![CDATA[Mindstorming(R1)]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+	</clash>
+	</event>
+
+	<event id ="d122">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[FC Pool]]></place>
+	<name class = "circle-rob"><![CDATA[Break the Maze]]></name>
+	<clash>
+		<e class = "circle-acu" id = "d11">Weakest Link Of Aetiology (R1.1)</e>
+		<e class = "circle-acu" id = "d12" >MIQ(R1)</e>
+		<e class = "circle-cry" id = "d14">Mayday(R1)</e>
+	</clash>
+	</event>
+
+	<event id ="d123">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>Entire</from>
+		<to>Day</to>
+	</time>
+	<place><![CDATA[KC Arena]]></place>
+	<name class = "circle-rob"><![CDATA[Robo Wars]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d124">
+	<time>
+		<dd>8th</dd>
+		<mm>oct</mm>
+		<from>Entire</from>
+		<to>Day</to>
+	</time>
+	<place><![CDATA[MIT Quadrangle]]></place>
+	<name class = "circle-rob"><![CDATA[Vedanth 4.0]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+</day>
+
+<day id = "Day2">
+	<event id ="d21">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[AB5 201,202]]></place>
+	<name class = "circle-acu"><![CDATA[ ATR(R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d22">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[AB5 201,202 ]]></place>
+	<name class = "circle-acu"><![CDATA[MIQ(R1.2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d23">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>6:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ AB5 201,202]]></place>
+	<name class = "circle-acu"><![CDATA[Aetiology(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d24">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>5:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 202]]></place>
+	<name class = "circle-air"><![CDATA[Mayday(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d25">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[Quadrangle]]></place>
+	<name class = "circle-air"><![CDATA[Water Rocket(R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d26">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ Nlh 303,304 ]]></place>
+	<name class = "circle-biz"><![CDATA[Buzzinga(R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d27">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>4:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[ Nlh 102 ]]></place>
+	<name class = "circle-biz"><![CDATA[ Venture Forth(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d28">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>4:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[ Nlh 103,104]]></place>
+	<name class = "circle-biz"><![CDATA[Think & Bid(R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d29">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 302 ]]></place>
+	<name class = "circle-che"><![CDATA[Chemeleon (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d210">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>4:00 PM</to>
+	</time>
+	<place><![CDATA[ Material Testing Lab ]]></place>
+	<name class = "circle-con"><![CDATA[Conkreation (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d211">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>4:30 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 203, 204 ]]></place>
+	<name class = "circle-con"><![CDATA[ Civil Buzz (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d212">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ CCF Lab ]]></place>
+	<name class = "circle-cry"><![CDATA[Battle Of The Bots (R1) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+
+	<event id ="d213">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>5:30 PM</from>
+		<to>7:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 303, 304 ]]></place>
+	<name class = "circle-cry"><![CDATA[ Code Wars (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d214">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>4:00 PM</to>
+	</time>
+	<place><![CDATA[ IE/CM Lab ]]></place>
+	<name class = "circle-ele"><![CDATA[Maglev]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d215">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>4:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 304 ]]></place>
+	<name class = "circle-ele"><![CDATA[C.O.L.O.R (R1) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d216">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ AB5 205 ]]></place>
+	<name class = "circle-ene"><![CDATA[Eco-audit (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d217">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>6:30 PM</to>
+	</time>
+	<place><![CDATA[AB5 205 ]]></place>
+	<name class = "circle-ene"><![CDATA[Swades (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d218">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[ AB5 312 + AB5 E&C Balcony + NLH 204 for 2-3 ]]></place>
+	<name class = "circle-eps"><![CDATA[Scientia ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d219">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[ NLH 202 ]]></place>
+	<name class = "circle-giz"><![CDATA[ Demorse]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d220">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ Mech Workshop ]]></place>
+	<name class = "circle-red"><![CDATA[Fox Hunt (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d221">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ Book bank area ]]></place>
+	<name class = "circle-kra"><![CDATA[ Amphibious Assault]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d222">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 203 ]]></place>
+	<name class = "circle-sky"><![CDATA[LnD Quiz (R1) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d223">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:00 PM</to>
+	</time>
+	<place><![CDATA[  NLH 103, 104]]></place>
+	<name class = "circle-mec"><![CDATA[ Assemble Dissemble(R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d224">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ CAD Lab ]]></place>
+	<name class = "circle-mec"><![CDATA[ Cad It Up (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d225">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[ NLH 302]]></place>
+	<name class = "circle-met"><![CDATA[ Augmented Reality (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	<event id ="d226">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[ FC pool (1-side) ]]></place>
+	<name class = "circle-rob"><![CDATA[ The Transporter]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	<event id ="d227">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>Entire</from>
+		<to>Day</to>
+	</time>
+	<place><![CDATA[ KC area ]]></place>
+	<name class = "circle-rob"><![CDATA[ Robowars ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	<event id ="d228">
+	<time>
+		<dd>9th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[ ]]></place>
+	<name class = "circle-tur"><![CDATA[ Mobivision]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+</day>
+<day id = "Day3">
+
+	<event id ="d38">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 104]]></place>
+	<name class = "circle-con"><![CDATA[CIVIL BUZZ (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+		
+	<event id ="d33">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:30 PM</to>
+	</time>
+	<place><![CDATA[QUADRANGLE]]></place>
+	<name class = "circle-air"><![CDATA[WATER ROCKET (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d311">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>4:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 304]]></place>
+	<name class = "circle-cry"><![CDATA[CODEWARS (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d35">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 202]]></place>
+	<name class = "circle-biz"><![CDATA[VENTURE FORTH (R3)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d314">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[E&C BALCONY]]></place>
+	<name class = "circle-eps"><![CDATA[SMART CANE]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d315">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[BME DE LAB]]></place>
+	<name class = "circle-eps"><![CDATA[SCIENTIA (R3)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d323">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[MECHANICAL LAB]]></place>
+	<name class = "circle-mec"><![CDATA[ASSEMBLE DISSEMBLE (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d324">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>6:30 PM</to>
+	</time>
+	<place><![CDATA[AB1 6 EG HALLS+3 NORMAL ROOMS]]></place>
+	<name class = "circle-mec"><![CDATA[JUNKYARD WARS (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d317">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 402,403,404,405]]></place>
+	<name class = "circle-sky"><![CDATA[GAMING]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d326">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[KC AREA]]></place>
+	<name class = "circle-rob"><![CDATA[ROBOWARS]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d322">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[AC SEMINAR HALL]]></place>
+	<name class = "circle-sky"><![CDATA[QUESTIONABLE INTELLIGENCE]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d320">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[ELECTRONICS LAB]]></place>
+	<name class = "circle-giz"><![CDATA[FOX HUNT (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d324">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 105]]></place>
+	<name class = "circle-met"><![CDATA[AUGMENTED REALITY (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d310">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[AB5 206,207,208]]></place>
+	<name class = "circle-con"><![CDATA[SMART CITIES (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d313">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[IE/CM LAB]]></place>
+	<name class = "circle-ele"><![CDATA[C.O.L.O.R (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	
+	<event id ="d39">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[INFRONT OF CHEM BLOCK]]></place>
+	<name class = "circle-con"><![CDATA[CIVIL BUZZ (R2 CONTD)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d327">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[AB5 211]]></place>
+	<name class = "circle-tur"><![CDATA[GAMEDEV]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d319">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[ELECTRONICS LAB]]></place>
+	<name class = "circle-giz"><![CDATA[DEXTER'S DEN (R3)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d321">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[FC POOL RIGHT SIDE]]></place>
+	<name class = "circle-kra"><![CDATA[DELTA SURGE]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d325">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 102]]></place>
+	<name class = "circle-met"><![CDATA[MINDSTORMING (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d34">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>7:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 103, 104]]></place>
+	<name class = "circle-biz"><![CDATA[TIMEOUT (R1)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d37">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[CHEM BLOCK INNER ROAD]]></place>
+	<name class = "circle-che"><![CDATA[CHEM - E - CAR]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d31">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>7:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 204]]></place>
+	<name class = "circle-acu"><![CDATA[MIQ (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+
+	<event id ="d325">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>4:00 PM</from>
+		<to>7:30 PM</to>
+	</time>
+	<place><![CDATA[FC POOL LEFT SIDE]]></place>
+	<name class = "circle-rob"><![CDATA[BULL'S EYE]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d316">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>4:00 PM</from>
+		<to>9:00 PM</to>
+	</time>
+	<place><![CDATA[QUADRANGLE]]></place>
+	<name class = "circle-sky"><![CDATA[FUEL RC 3]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d312">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>4:30 PM</from>
+		<to>6:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 304]]></place>
+	<name class = "circle-cry"><![CDATA[BUG TRACKER (R3)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d36">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>5:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 302]]></place>
+	<name class = "circle-biz"><![CDATA[THINK N BID (R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d318">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>5:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 202]]></place>
+	<name class = "circle-giz"><![CDATA[GAMEROID]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+	
+	<event id ="d32">
+	<time>
+		<dd>10th</dd>
+		<mm>oct</mm>
+		<from>5:30 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 305]]></place>
+	<name class = "circle-acu"><![CDATA[Weakest Link Of Aetiology (R2)]]></name>
+	<clash>
+
+	</clash>
+	</event>
+</day>
+
+
+
+<day id = "Day4">
+	<event id ="d41">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 204]]></place>
+	<name class = "circle-acu"><![CDATA[ATR(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d42">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 202]]></place>
+	<name class = "circle-acu"><![CDATA[I am not Noble R2]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d43">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>4:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 205]]></place>
+	<name class = "circle-acu"><![CDATA[Elucidate R2 ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d44">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>2:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 104]]></place>
+	<name class = "circle-air"><![CDATA[Automaster ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d45">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>3:00 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[AB5 211]]></place>
+	<name class = "circle-air"><![CDATA[ RC Balloons ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d46">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[AB1-D309]]></place>
+	<name class = "circle-biz"><![CDATA[Buzzinga(R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d47">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 302]]></place>
+	<name class = "circle-biz"><![CDATA[Timeout(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d48">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[Material Testing Lab]]></place>
+	<name class = "circle-con"><![CDATA[Conkreation (R3) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d49">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[AC EG HALL]]></place>
+	<name class = "circle-con"><![CDATA[Smart Cities (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d410">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[AC EG HALL]]></place>
+	<name class = "circle-con"><![CDATA[Risky Towns (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d411">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>3:30 PM</to>
+	</time>
+	<place><![CDATA[CCF Lab]]></place>
+	<name class = "circle-cry"><![CDATA[Battle Of The Bots (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d412">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>3:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[NLH 304]]></place>
+	<name class = "circle-cry"><![CDATA[Code Wars (R3) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d413">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>3:30 PM</to>
+	</time>
+	<place><![CDATA[IE/CM Lab]]></place>
+	<name class = "circle-ele"><![CDATA[Coil Gun (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d414">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 103]]></place>
+	<name class = "circle-ene"><![CDATA[Urja Rachna ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d415">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[Quadrangle]]></place>
+	<name class = "circle-sky"><![CDATA[ Fuel RC3]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d416">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[NLH Top Floor]]></place>
+	<name class = "circle-sky"><![CDATA[ Gaming]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d417">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:00 PM</to>
+	</time>
+	<place><![CDATA[Power Electronics Lab]]></place>
+	<name class = "circle-giz"><![CDATA[Fox Hunt (R3)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d418">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>7:00 PM</to>
+	</time>
+	<place><![CDATA[Auto Workshop]]></place>
+	<name class = "circle-mec"><![CDATA[ Junkyard Wars(R2)]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d419">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>3:30 PM</to>
+	</time>
+	<place><![CDATA[Smithy Shop]]></place>
+	<name class = "circle-mec"><![CDATA[Cad It Up (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d420">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:30 PM</from>
+		<to>5:30 PM</to>
+	</time>
+	<place><![CDATA[EG Hall]]></place>
+	<name class = "circle-met"><![CDATA[Ball Coaster ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d421">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>4:00 PM</to>
+	</time>
+	<place><![CDATA[NLH 105]]></place>
+	<name class = "circle-met"><![CDATA[Mindstorming ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d422">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>1:00 PM</from>
+		<to>8:00 PM</to>
+	</time>
+	<place><![CDATA[KC area]]></place>
+	<name class = "circle-sky"><![CDATA[ Robowars]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d423">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>6:00 PM</to>
+	</time>
+	<place><![CDATA[FC pool (1-side)]]></place>
+	<name class = "circle-rob"><![CDATA[The Transporter (R2) ]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+
+	<event id ="d424">
+	<time>
+		<dd>11th</dd>
+		<mm>oct</mm>
+		<from>2:00 PM</from>
+		<to>5:00 PM</to>
+	</time>
+	<place><![CDATA[AB5 211]]></place>
+	<name class = "circle-tur"><![CDATA[Robocode]]></name>
+	<clash>
+		
+	</clash>
+	</event>
+</day>
+
+
+</schedule>

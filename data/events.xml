@@ -1,0 +1,2502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<categorylist>
+<list color ="acu" href = "#one">Acumen</list>
+<list color = "air" href = "#two">Airborne</list>
+<list color = "biz" href = "#three">BizZmaestro</list>
+<list color = "che" href = "#four">Cheminova</list>
+<list color ="con" href = "#five">Constructure</list>
+<list color = "cry" href = "#six">Cryptoss</list>
+<list color = "ele" href = "#seven">Electrific</list>
+<list color = "ene" href = "#eight">Energia</list>
+<list color = "eps" href = "#nine">Epsilon</list>
+<list color = "giz" href = "#ten">Gizmo</list>
+<list color = "kra" href = "#eleven">Kraftwagen</list>
+<list color = "mec" href = "#twelve">Mechanize</list>
+<list color = "met" href = "#thirteen">Mechatron</list>
+<list color = "rob" href = "#fourteen">Robotrek</list>
+<list color = "tur" href = "#fifteen">Turing</list>
+<list color = "gam" href = "#sixteen">Gaming</list>
+</categorylist>
+<category color = "acu">
+	<event id = "c1e1">
+		<id>c1e1</id>
+		<name>Amazing Tech Race</name>
+		<logo><![CDATA[ assets/logo/Acumen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+    <p>When the gong hits, an electric atmosphere resounds the arena – an arena that spans almost all of MIT. Race against time and opponents in a challenge that pushes your grey cells to its limit, where brain and brawn needs to work in tandem. Hold nothing back and dive into what brings to life the age-old catch phrase, “You snooze, you lose.”</p>
+  
+  <h2>Round 1</h2>
+  <p>The registered teams will have to take a written questionnaire which will aim at testing the participants’ technical and general aptitude. Twelve teams will be selected for THE AMAZING TECH RACE based upon their performance in this round</p>
+  <h2>Round 2</h2>
+  <p>Free from the confines of a seat, R2 puts you on your feet – running to be more precise. Challenging coordination and harmony between a team’s psychological and physiological prowess, R2 comes in full view on the day of the event, promising not to disappoint.
+The teams will take part in a race spread over many stages. At every stage they will have to complete a TECHNICAL task assigned to them to obtain the clue for the next task. This task will be the same for all teams. A specific number of teams will be eliminated at the end of certain stages. The remaining teams will move on to the next stage. The team finishing all the tasks first will be declared the winner.</p>
+<h2>Rules</h2>
+	<ol>
+		<li>Each team must comprise of two to four members. Teams can have students from more than one educational institution.</li>
+		<li>Once a team has qualified the elimination round, any sort of changes in the team will be not accepted.</li>
+		<li>The teams must respect the decision of the organizers at every stage of the race.The organizers reserve the right to disqualify the teams for use of any unfair means. This includes using external help to complete the task, misguiding other teams etc.External help is defined as assistance received from a non-team member for a procedure involved in doing a task.</li>
+		<li>The teams must also not ask the organizers involved directly with the amazing race for any help regarding directions to the next stage.</li>
+	</ol>
+	<h2>Judging Criteria</h2>
+	<ol>
+		<li>The first round is a written based round  and the participants will be judged on the basis of a marking scheme.</li>
+		<li>The second round will comprise of a race to different destination in manipal. The first team to complete the race wins.</li>
+	</ol>
+	<h2>Contact</h2>
+	<h3>Event Head</h3>
+	<p>Name:  Nishant M <br> Contact Number: +918867601666</p>
+	<h3>CO-Event Head</h3>
+	<p>Name:  Janhvi Parekh <br> Contact Number: +918867609444
+</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			When the gong hits, an electric atmosphere resounds the arena – an arena that spans almost all of MIT. Race against time and opponents in a challenge that pushes your grey cells to its....
+			]]>
+		</summary>
+	</event>
+
+	<event id = "c1e2">
+		<id>c1e2</id>
+		<name>Elucidate</name>
+		<logo><![CDATA[ assets/logo/Acumen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+    <p>: An event based on cryptography and puzzle solving techniques used to hide information in plain sight.  Use you deciphering skill and crack the toughest cryptographic clues in order to proceed to the next round. Manage your time, work together and twist your brain to win it all!
+    </p>
+  
+  <h2>Round 1</h2>
+  <p>One hour aptitude test for a team of 2 . It will include questions involving picture puzzle anagram and word puzzle based on cryptography.</p>
+  <h2>Round 2</h2>
+  <p>The second tound will be an interactive round with a wide range of questions related to cryptography. It will be a unique format and teams will be required to solve them in a given amount of time.</p>
+<h2>Rules</h2>
+	<ol>
+		<li>Each team must consist of 2 team members.</li>
+		<li>The first round is a one hour paper.</li>
+		<li>Breaking any rules will lead to disqualification</li>
+	</ol>
+	<h2>Judging Criteria</h2>
+	<ol>
+		<li>The first round is a written based round  and the participants will be judged on the basis of a marking scheme.</li>
+		<li>The second round will consist of puzzles based on cryptography and the team to solve all of them will be the winner.</li>
+	</ol>
+	<h2>Contact</h2>
+	<h3>Event Head</h3>
+	<p>Name:  Siddhant Anal <br> Contact Number:+919740534074</p>
+	<h3>CO-Event Head</h3>
+	<p>Name: Abhijit Sharan <br> Contact Number:+918884891500</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			An event based on cryptography and puzzle solving techniques used to hide information in plain sight.  Use you deciphering skill and crack the toughest cryptographic clues in order to proceed to...
+			]]>
+		</summary>
+	</event>
+
+	<event id = 'c1e3'>
+		<id>c1e3</id>
+		<name>I am not noble</name>
+		<logo><![CDATA[ assets/logo/Acumen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+    <p>I Am Not Noble shall focus on participant’s wit and understanding of general science. Also their presentation skills when they present the paper. It tests the participant’s ability to present a humorous paper based on facts. It is an event which will bring a lot of new interesting and never heard before topics into focus. It shall have two rounds. First round all participants have to submit their paper and they will be shortlisted. Second round the selected participants have to present their papers! Each team may consist of one or a maximum of two participant.</p>
+  
+  <h2>Round 1</h2>
+  <p>The participants should send their papers to the given e-mail id .
+The paper should be based on a humorous topic. But it should be presented and proved scientifically.
+All points in the paper should be supported with scientific facts.</p>
+
+  <h2>Round 2</h2>
+  <p>The selected candidates will have to present the paper that they had sent.
+Time Limit: 8-10 mins
+Participants should strictly follow the time limit failing which they can be penalized.
+The candidates can use slideshows during their presentation.
+The candidates should bring a printed copy of the paper that they had sent.
+The panel of judges will question the candidate regarding the paper after he/she presents it.
+</p>
+<h3>Send the abstracts to: <a href = "mailto:iann@istemanipal.in">iann@istemanipal.in</a>
+</h3><br>
+<h3>Last date for sending abstract is 5th october</h3>
+<h2>Rules</h2>
+	<ol>
+		<li>The paper should be original.</li>
+		<li>Any kind of copying can lead to disqualification of the entry.</li>
+		<li>The papers should be sent before the last date.</li>
+		<li>Late entries won’t be considered.</li>
+	</ol>
+	<h2>Contact</h2>
+	<h3>Event Head</h3>
+	<p>Name: AkanshaPriya<br> Contact Number:+918867633030</p>
+	<h3>CO-Event Head</h3>
+	<p>Name: Rakshit Sinha<br> Contact Number:+919591174140</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			I Am Not Noble shall focus on participant’s wit and understanding of general science. Also their presentation skills when they present the paper. It tests the participant’s ability to present a humorous paper based on facts..
+			]]>
+		</summary>
+	</event>
+	<event id = "c1e4">
+		<id>c1e4</id>
+		<name>Manipal intelligent quotient</name>
+		<logo><![CDATA[ assets/logo/Acumen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+								<h2>Description</h2>
+				    <p>The event measures a person’s general intellectual ability to understand ideas, as compared to other fellow people in Manipal. So it lets test takers know how smart they are and every participant will be able to know there IQ score. The event shall have two rounds
+				    </p>
+				  
+				  <h2>Round 1</h2>
+				  <p>The first round is written round which shall have IQ questionsbased on aptitude, reasoning, math etc. It focuses on the participant’s intelligence, tests ability to think and reason. </p>
+				  
+				  <h2>Round 2</h2>
+				  <p>The second round is a quiz, it would include a series of games and puzzles challenging each individual’s cognitive thinking skills, fastness as well as presence of mind.</p>
+				<h2>Rules</h2>
+					<ol>
+						<li>It’s an individual event.</li>
+						<li>Only the top contestants get selected to the second round.</li>
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The first round is a written based round  and the participants will be judged on the basis of a marking scheme.</li>
+						<li>The second round will consist of puzzles based on IQ and the participants to solve all of them will be the winner.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: ShreyChengappa<br> Contact Number:+917760628683</p>
+					<h3>CO-Event Head</h3>
+					<p>Name: G HemanthKiran <br> Contact Number:+918867252511</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			The event measures a person’s general intellectual ability to understand ideas, as compared to other fellow people in Manipal. So it lets test takers know how smart they are.
+			]]>
+		</summary>
+	</event>
+
+	<event id = "c1e5">
+		<id>c1e5</id>
+		<name>The weakest link of aetiology</name>
+		<logo><![CDATA[ assets/logo/Acumen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+					<h2>Description</h2>
+				    <p>Tell all about what you know about the reason behind every day scientific phenomenon and make your way through because there is answer for every “why” in science. The format of weakest link is to be used.The event focuses on the understanding of the students. Their knowledge of how things happen, it tests their general knowledge. Also the second round is one of a kind, it is a quiz along with the twists of the vote outs.
+				    </p>
+				  
+				  <h2>Round 1</h2>
+				  <p>The first round is written which shall have basic reasoning questions. It focuses on the participants knowledge of common phenomenon , tests his basic understanding of the world. 30 questions.</p>
+				  
+				  <h2>Round 2</h2>
+				  <p>The questions in the second round shall also pertain to logical reasoning questions.It is a quiz which has a vote out at the end of every round.
+					It shall keep the participants mind occupied in more than just the questions</p>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Team of 2 (mandatory).</li>
+						<li>Quiz master’s and organisers decision is final.
+						 Any arguments may lead to deduction in points or 
+						 may even get eliminated.</li>
+						<li>Any usage of electronic gadgets will
+						 straight away result in elimination.</li>
+						<li>Top 10 teams from the first round 
+							gets selected to the second round</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The first round is a written based round  and the participants will be judged on the basis of a marking scheme.</li>
+						<li>The second round will consist of puzzles based on simple scientific facts and observations and the participants to solve all of them will be the winner.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: SIRASANI DILEEP KUMAR REDDY<br> Contact Number:+918867257444	</p>
+					<h3>CO-Event Head</h3>
+					<p>Name: SHANYA KUMAR <br> Contact Number:+919740609239</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Tell all about what you know about the reason behind every day scientific phenomenon and make your way through because there is answer for every “why” in science...	
+			]]>
+		</summary>
+	</event>
+
+
+</category>
+<category color = "air">
+	
+	<event id = "c2e1">
+		<id>c2e1</id>
+		<name>Water Rocket</name>
+		<logo><![CDATA[ assets/logo/Airborne.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Learn to build your own rocket!Design a single stage or multi stage water rocket that uses a combination of pressurized air and water for propulsion to complete a defined task, following all the rules and regulations. The competition will have two rounds. The participants will be judged based on the efficiency and design of the model.
+				    </p>
+				  
+				  
+				
+				<h2>Rules</h2>
+				<h3>Competition Rules</h3>
+					<ol>
+						<li>Rocket should be purely mechanical. Electronic components and chemicals are not allowed in any form.</li>
+<li>The water rocket must be made of soft drinks bottles (like Pepsi, Thumps-up, etc.) as the can withstand high pressures.</li>
+<li>Only handmade rockets would be entertained. It should not be readymade.</li>
+<li>Metals are not allowed in any form to be used with the rocket.</li>
+<li>Working fluid is water only. Participants will use only the water provided by the organizers.</li>
+<li>Bicycle pump or foot pump will be provided by organizers. Please check the sizes of nozzle which you are using. If any other size than the standard available in the market is used, arrange it beforehand to avoid any inconvenience. It will not be provided by the organizers.</li>
+<li>Participants are advised to bring at least two models, one in spare to compensate the damage if any occurs. Models should be same.</li>
+<li>Water pressure will be the only source of energy for the rocket.</li>
+<li>The rocket should have a maximum length of 80cm and maximum width of 40 cm (throughout the length). Maximum volume is 2.5 litre.</li>
+					</ol>
+					<h3>Game Rules</h3>
+					<ol>
+					<li>Each team will consist of maximum of 4 members. Members can be from different institutes.</li>
+<li>Each team can make their own launcher. Bonus points will be awarded to those teams who use their own launcher in both rounds without any faults and water leakage. Launcher will be provided by the organizing team if the participating team does not have a launcher or if their launcher is broken. </li>
+<li>Only members of the participating team will be allowed to launch.</li>
+<li>Rocket has to be launched from a fixed point on the ground using a fixed launcher.</li>
+<li>Radial distance between the launcher and the first point of contact of falling rocket with the ground will be taken as the range.</li>
+<li>Marks shall be allocated accord to range covered by the lancer.</li>
+<li>Bonus marks shall be awarded for innovative designs.</li>
+<li>In second round points will only be awarded if the rocket’s first point of contact is within 1 mitre of the target. Bonus points will be awarded if the rocket hits the target.</li> 
+<li>Participating team would be disqualified if any part of the rocket gets detached during launching and entire flight till it touches the ground.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>For first round, in two launches: 2 x range points.           
+Score (round 1) = 2 x range (first launch) + 2 x range (round 2) points </li>
+<li>For second round, if the rocket hits the target: 100 points   
+If within 1 mitre of target: [1-distance(m)] x 75 points 
+Score (round 2) = 100     or    [1-distance(m)] x 75 points </li>
+<li>Bonus: For successfully operational (without water leakage) launcher in both stages: 50 points.
+Ingenuity in rocket and launcher design (judged by faculty): 25 points.</li>
+<li>Total Score= score(round 1) + score(round 2) + Bonus  </li>
+
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Saurav Kumar Srivastava<br> Contact Number:+919740374343</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Design a single stage or multi stage water rocket that uses a combination of pressurized air and water for propulsion to complete a defined task, following all the rules and regulations. 
+			]]>
+		</summary>
+	</event>
+
+	<event id = "c2e2">
+		<id>c2e2</id>
+		<name>May Day</name>
+		<logo><![CDATA[ assets/logo/Airborne.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>In this event you will be investigating an aircraft. Step into the shoes of  NTSB and crack the causes of  a crash. 
+				    </p>
+				  
+				  
+				<h2>Rules</h2>
+					<ol>
+						<li>There will be two rounds.</li> 
+<li>Each team should not have more than 4 participants.</li>
+<li>Round one, the participants will be given a questionnaire related to aircrafts and basic aptitude.</li>
+<li>Top 8-10 teams will go to the next round.</li>
+<li>Round 2 will be divided into two parts: semi-finals and finals. The final round is a buzzer round.</li>
+<li>The teams will be shown clips and videos of a crash and will have to answer questions related to it in the second round.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The top 8-10 teams will be chosen based on the highest scores.</li>
+<li>The tie-breaking in the first round will be decided based on who solves higher number of ‘starred’ questions.</li>
+<li>In the second round the team who answers the maximum number of questions correctly wins.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Arbaaz<br> Contact Number:+919886794622</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			In this event you will be investigating an aircraft. Step into the shoes of  NTSB and crack the causes of  a crash. Crisis, Emergency, Necessity, Calamity, Extremity...
+			]]>
+		</summary>
+	</event>
+
+	<event id = "c2e3">
+		<id>c2e3</id>
+		<name>RC Balloon</name>
+		<logo><![CDATA[ assets/logo/Airborne.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>“Race your heart out with a lighter-than-air aircraft.”
+					This is a thrilling event where the participants will be taught to design their blimps and have a race with it. RC Ballooning is the future of space ballooning and satellite carrying missions. 	</p>
+				<h2>Problem Statement</h2>
+				<p>The participants are required to race their balloons across a certain distance steadily to win the competition. There will be only one round for this event and the team that reaches first, wins.</p>
+
+				<h2>Rules</h2>
+					<ol>
+						<li>The participants will be given a kit and they are required to use the logistics only from that kit. (They can use their logistics provided it is of the same configuration and has been verified by the event head).</li>
+						<li>One team must not have more than 5 participants.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>There will be only one round for this event.</li>
+						<li>The participants have to race their balloon across a certain distance. The steadiest and the fastest will earn the maximum points.</li>
+						<li>There are bonus points for innovative design as well.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name:Ved Merchant  <br> Contact Number:+918970139894</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			This is a thrilling event where the participants will be taught to design their blimps and have a race with it. RC Ballooning is the future of space ballooning and satellite carrying missions. 
+			]]>
+		</summary>
+	</event>
+</category>
+<category color ="biz">
+	<event id = "c3e1">
+		<id>c3e1</id>
+		<name>Think And Bid</name>
+		<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Ever wanted to be a part of bidding? Well here is your opportunity to use your wallet for whatever you want to buy. In Think and Bid we check your product awareness, risk taking capabilities and decision making skills. Be prepared for a fun filled dose of business acumen.</p>
+
+				    <h2>Round 1</h2>
+				  <p>In this round participants are required to identify and estimate the value of a product/service based on audio visual clues. Also there will be situation based bidding opportunities, with participants having a predefined amount of virtual money and a pre decided base value of every product.</p>
+				  
+				  <h2>Round 2</h2>
+				  <p>Participant who clear the first round participate in the main bidding event. They are provided with a certain amount of virtual money and also some bonus virtual money depending on their performance in the previous round.</p>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>A team can have maximum 3 members.</li>
+						<li>It is mandatory for every member of the team to register.</li>
+						<li>The team can comprise of students from different colleges.</li>
+						<li>20 teams will qualify for second round.</li>
+						<li>The decision of the judges will be final and binding.</li>
+						<li>Use of any unfair means will lead to disqualification.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The team with maximum asset value at the end of each round  will be adjudged winner</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Devansh Bisla<br> Contact Number:+918867232525</p>
+					<h3>CO-Event Head</h3>
+					<p>Name: Vivek Sahoo <br> Contact Number:+918867608333</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Ever wanted to be a part of bidding? Well here is your opportunity to use your wallet for whatever you want to buy. In Think and Bid we check your product awareness, risk taking capabilities and decision making skills.
+			]]>
+		</summary>
+	</event>
+	<event id = "c3e2">
+		<id>c3e2</id>
+		<name>Time Out</name>
+		<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Time is money, money is time.
+You need both, but have none.Are you the change you want to see in the world? Today, being the change won’t be enough. Not only money, time shuns countless entrepreneurs everyday. Want to master them all? We have your race track!Make your way to the finals by knowing your way around logos and an audio- visual encounter. Then be prepared to be the government! You, your state and your virtual money in your arsenal. Make the most of all and prepare the Federal budget for your people.
+But be on your feet, because before you know, it’s TIME OUT ! 
+</p>
+
+				   
+					<h2>Judging Criteria</h2>
+					<h3>Round 1 </h3>
+					<ol>
+						<li>2 points will be allotted for each correct answer and a negative 1 point for a wrong answer. 10 Teams/individuals with the highest no. points go through to the next round. Their “round 1” score will have partial impact on their scores in the next round. Their total will be reduced to, out of 20 which will be carried on to “round 2”.</li>
+				   </ol>
+				   <h3>Round 2 </h3>
+					<ol>
+						<li>Feasibility of the budget</li> 
+<li>Aptness of the budget with respect to the newsletter provided</li>
+<li>Presentation of the budget</li>
+<li>Questions & Answer round by the judging panel (if judges please, questions can be asked by audience too)</li>
+<li>Their 1st round scores</li>
+					</ol>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Make your way to the finals by knowing your way around logos and an audio- visual encounter. Then be prepared to be the government! You, your state and your virtual money in your arsenal. Make the most of all and prepare the Federal budget for your people...
+			]]>
+		</summary>
+	</event>
+
+	<event id = "c3e3">
+		<id>c3e3</id>
+		<name>Venture Forth</name>
+		<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>In the economic world, an innovator needs to thrive from each rung in the business ladder. In VENTURE FORTH, entrants will flux their powers of persuasion to market ideas, exercise the traits essential to manage a company and hone their management capabilities. All in a healthy competitive environment enticing the entrepreneur in all.</p>
+
+				   <h2>Round 1</h2>
+				  <p>Written quiz: Entrants will answer a 30 question written quiz, on general business-oriented information with a greater focus on the themes explored by the event; Venture capitalism, crowd-sourcing and mergers. This is to evaluate the fundamental aptitude of applicants.</p>
+				  
+				  <h2>Round 2</h2>
+				  <p>Pitch it or ditch it : Qualifiers from round one will be given two boxes full of paper slips, in sequence. The first box will decide the product that they will be pitching. The second box contains the audience that they will be targeting with their pitch.  They will then proceed in order to make their respective pitches to the panel of judges.</p>
+				<h2>Round 3</h2>
+				<h3>The food chain</h3>
+<p>Stage 1: Finalists will be given a theme and an alloted time, with which they will create a product or a service. They will then submit a written appeal to the panel of judges ( "venture capitalists"), detailing the vitality of their proposition. Net sum: 10000 INR</p>
+<p>Stage 2: They will then pitch their idea to the gathered public ( including previously eliminated competitors ) and will be voted on. Each vote counts as a subtotal of 10000 INR, divided equally amongst those present.</p>
+The sum of the stage 1 and stage 2 earnings is the gross financial capital of the company.
+<p>Stage 3: The final stage involves the competitors proposing their selection ( Among their own competitors' companies) for best merger ( if any) to the panel of judges. This decision and the reasoning is evaluated, graded, and a cash-multiplier is awarded. The winner is the company with the most capital</p>
+
+				<h2>Rules</h2>
+				<h3>COMPETITION SPEAKING RULES</h3>
+					<ol>
+						<li>Team of 2-3 people </li>
+						<li>Speakers may only use English/Hindi. </li>
+<li>Speakers should face and address the target audience.</li> 
+<li>Profanities are frowned upon.</li>
+<li>Excessively long pauses will be penalized</li>
+<li>Optimal time usage is advised for positive evaluation.</li>
+<li>Exceeding allotted time carries severe penalty.</li>
+<li>Posture, Body language and articulation all affect scores.</li>
+<li>Captions and slogans of previously established companies are prohibited.</li>
+					</ol>
+					<h3>COMPETITION GENERAL RULES</h3>
+					<h3>Round 1 </h3>
+					<ol>
+					<li>Students cannot not use google or other search engines.</li>
+					<li>All discussions must be between group members, 
+						and not between two groups.</li>
+				<li>Participants cannot leave the hall until the quiz is completed.</li>
+				<li>Participants must abide by stipulated time limits.</li>
+				<li>No malpractice.</li>
+					</ol>
+					<h3>Round 2</h3>
+					<ol>
+						<li>Only one participant per group is allowed to speak.</li>
+						<li>Participants may only communicate with each other during the provided 2 minutes discussion period.</li>
+						<li>Participants must come forth after the termination of 2 minutes, and will speak for a maximum of 1 ½ minute.</li>
+						<li>Speeches exceeding the time limit will be penalized.</li>
+
+					</ol>
+					<h3>Round 3</h3>
+					<ol>
+						<li>Only one participant per group is allowed to speak.</li>
+						<li>Participants may only communicate with each other during the provided 2 minutes discussion period.</li>
+						<li>Participants must come forth after the termination of 2 minutes, and will speak for a maximum of 1 ½ minute.</li>
+						<li>Speeches exceeding the time limit will be penalized.</li>
+
+						Round 3:
+						Phase 1:
+						<li>Selected idea or company must be consistent with the theme.</li>
+						<li>Adherence to listed format is advised but not necessary.</li> 
+						<li>Exceeding word limit will levy penalty.</li>
+
+						Phase 2:
+						<li>Prior discussion with the crowd is prohibited.</li>
+						<li>Abide by stipulated competition speaking rules.</li>
+						<li>The allotted time may be used however the contestants  see fit.( Doesn’t have to be a speech)</li>
+						<li>Entrants may not bring their own props to the stage.</li>
+						<li>Stick to the given speaking period.</li>
+
+						Phase 3: 
+						<li>Abide by stipulated competition speaking rules.</li>
+						<li>No discussion between mock companies.</li>
+						<li>Stick to the given speaking period.</li>
+						<li>Once the merger is initiated, there can be no withdrawal. All mergers are final.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Adherence to competition rules.</li>
+						<li>Sticking to time limits.</li>
+						<li>Innovative ability/creativity.</li>
+						<li>Improvisational skills.</li>
+						<li>Marketing tact.</li>
+						<li>Managerial skill.</li>
+						<li>Persuasiveness.</li>
+						<li>Eloquence/diction.</li>
+						<li>Knowledge base and topic relevance.</li>
+						<li>Topic precision.</li>
+
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Saveri Krishna B<br> Contact Number:+919177244235</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Shubhankar Mayank<br> Contact Number:+919902559029</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			In the economic world, an innovator needs to thrive from each rung in the business ladder. In VENTURE FORTH, entrants will flux their powers of persuasion to market ideas, exercise the traits essential to manage a company and hone their management capabilities..
+			]]>
+		</summary>
+	</event>
+
+		<event id = "c3e4">
+			<id>c3e4</id>
+			<name>Wall Street</name>
+			<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Description</h2>
+					    <p>This is probably the most exciting online event, not only for business minded people, but also for those who want to get an insight into the world of stock markets in a thrilling, fun filled way. So go ahead, invest wisely and be the next Wolf of Wall Street.</p>
+
+					   <h2>Rules</h2>
+					   <ol><li>All participants must make a minimum number of transactions during the course of a day’s business, failing to which they will be disqualified.
+					   </li></ol>
+						<h2>Judging Criteria</h2>
+						<ol>
+							<li>At the end of the stipulated time, the top 2 persons with the highest amount of credit to his/her name which includes the [ leftover virtual money + (the no. of shares * the present value of each share)] is to be declared the winners. There will be 2 winners every day.</li>
+					   </ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Budhaditya Roy<br> Contact Number:+919740451315</p>
+					   
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				This is probably the most exciting online event, not only for business minded people, but also for those who want to get an insight into the world of stock markets in a thrilling, fun filled way... 
+				]]>
+			</summary>
+		</event>
+		<event id = "c3e5">
+		<id>c3e5</id>
+		<name>BuzZzinga</name>
+		<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>One of the most successful business events under MUTBI. Two round event. First round consists of general aptitude test oriented to business knowledge of participants. In second round participants will be randomly grouped to test their business and teamwork skills. The problem statement in the second round will contain situational problems faced in setting up company.</p>
+				    <h2>Rules </h2>
+				    <ol>
+				    	<li>The goal is to finish the game in least possible time with maximum points.</li>
+				    	<li>The duration of the game is maximum 4hours.</li>
+				    	<li>There are 6 counters that have to be passed to win the game. They are as follows Registration of Company, Registration of Plot,Rides and Food Stalls,Raw Materials, Finance and BuzZzinga.</li>
+				    	<li>Each company will be given a budget according to size of plot being bought by them.</li>
+				    	Budget for Small Amusement park - INR 18 Cr
+				    	                    Large Amusement park - INR 23 Cr
+				    	Failure to complete task within the budget results in elimination.All expenditure should be made keeping this in mind.
+				    	<li>Help Desk has been provided to clarify any doubts and it can be visited any number of times.</li>
+				    	<li>There has to be 10 MINUTES GAP before approaching the next counter and a gap of 5 MINUTES if visiting the same counter for the second time. A supervisor will be given to each company for this purpose. The job of the supervisor is to ensure time difference is maintained.</li>
+				    	<li>You will be penalized for visiting any counter more than once. You can come to the REGISTRATION OF PLOT counter ONLY once.</li>
+				    	<li>Points will be awarded depending on the rank of the team when approaching the counter i.e. Maximum marks will be given to the person passing the counter first.</li>
+				    	<li>A team cannot proceed to the next counter without clearance from the previous counter.</li>
+				    	<li>There can be raids on teams randomly at any point in the game.</li>
+				    	<li>Brokers are provided at different stages in the game. But taking help will be at the team’s own RISK.</li>
+				    	<li>At the end of the game the net profit will be converted to points. During the event you cannot use your profits for any transactions. It is only the basis of judgement.</li>
+				    	<li>Along with the necessary papers to each counter, always carry the time record sheet given to all counters on every approach.</li>
+				    	<li>When leaving the counter after any transaction, make sure that all your documents are signed and stamped.</li>
+
+				    </ol>
+				    <h3>Download the complete Documentation</h3>
+				    <a href = "uploads/Buzzinga.docx" target = "_blank" />
+				    Click here to download</a>
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			One of the most successful business events under MUTBI. Two round event. First round consists of general aptitude test oriented to business knowledge of participants.In second round participants will be randomly grouped to test their business and teamwork skills...
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "che">
+	
+	<event id = "c4e1">
+		<id>c4e1</id>
+		<name>Chem-e-car</name>
+		<logo><![CDATA[ assets/logo/Cheminova.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p> Design your own chemically powered bottle car by making use of chemical reactions!  Distance travelled by your car on the track will be judged along with the authenticity of the chemical reaction and prototype design.</p>
+				  
+				  <h3>Workshop:-  Guidelines on how to make the car and an outline of the basic principles involved. </h3>
+				  <br>
+				  	<h2>Round 1</h2>
+				  	<p>PCM Quiz.  (immediately after the workshop) .Top 12 teams will qualify and go through to round 2.</p>
+				<h2>Round 2</h2>
+				<p>In round 2 Each team will be given the required logistics for the car and they will have to design the car .</p>
+
+				<h2>Rules</h2>
+					<ol>
+						<li>2-4 people allowed per team</li>
+							<li>The gases/liquids released should be NON poisonous</li>
+	<li>NO COMBUSTIBLE/inflammable reactions allowed. Making use of fires is not allowed.</li>
+	<li>If your car changes direction and moves outside the track, then this will account for a penalty.</li>
+	<li>Mechanical push of the car is not allowed. No remote controlling devices can be used.</li>
+	<li>The Mentos + Coke reaction is not allowed.</li>
+	<li>If the judges deem the car as unsafe, the team will be disqualified.</li>
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+					<li>Distance travelled</li>
+					<li>Uniqueness of the reaction</li>
+					<li>Prototype Design</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Arjun Padmanabhan <br> Contact Number:+919341625255</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Ranu Rawat <br> Contact Number:+919886527442</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			To test the ability of the students to design a car which runs solely based on chemical reactions.]]>
+		</summary>
+	</event>
+
+	<event id = "c4e2">
+		<id>c4e2</id>
+		<name>Chemeleon</name>
+		<logo><![CDATA[ assets/logo/Cheminova.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>All the creative minds out there, here’s your event!“Creativity is intelligence having fun” –Albert Einstein.This event will test the overall knowledge of an individual, smartness, presence of mind and speed as well as creativity of a team.
+				    </p>
+				  
+				  <h2>Round 1</h2>
+				  <p>The first round is written which shall have aptitude questions, puzzles and reasoning type questions. There are 40 questions altogether.
+				Teams will be shortlisted for the next round.</p>
+				 <h2>Round 2</h2>
+				 <p>The first part of it is the treasure hunt with several clue stations located at various parts of the campus. The location of the clue station will be obtained from the riddle/puzzle given to them. 
+				At the end of the hunt, begins the second part of the event! It all depends on your creativity! This being an on the spot event, the details will be revealed only on the day of the event.</p>
+
+				<h2>Rules</h2>
+					<ol>
+						<li>A team can have a maximum number of three people.</li>
+<li>No person can be in more than one team.</li>
+<li>There should not any sort of interaction between different teams during the hunt.</li>
+<li>Only after solving the riddle/puzzle teams are allowed to leave the clue station.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Time required to complete the hunt will be taken into account.</li>
+						<li>Marks will be deducted in case extra clue is provided at the clue station.</li>
+						<li>The judging criteria for the last part of the event will be informed on the day of the event since it is an on the spot event.</li>
+
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Narayan Dilip <br> Contact Number:+918867601818</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Anubhav Khanna <br> Contact Number:+919740564811</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			“Creativity is intelligence having fun” –Albert Einstein.This event will test the overall knowledge of an individual, smartness, presence of mind and speed as well as creativity of a team...
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "con">
+	
+	<event id = "c5e1">
+		<id>c5e1</id>
+		<name>Concreation</name>
+		<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>This event kick starts with a workshop on how to cast a concrete cube. The first time you will actually get a feeling of a civil engineer. The first round will involve finding the missing details of the design while some of the information of how to go about it will be already given and in the final round, participants cast an actual concrete cube according to their design. Compression and water absorption test followed by the viva will make you ace the event.Come and build your own cube! Be your Bob the Builder.
+				    </p>
+				  
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Maximum of two members per team.</li>
+						<li>Members of same team should be from same institute.</li>
+						<li>Quantity of logistics will be provided according to the mix design.</li>
+						<li>Decision of the judges will be final.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>The function used to evaluate the cubes is given below:<br>
+						<b>Total score = M1 + M2 + M3 + M4 + M5</b><br>
+Where,<br>
+M1 = Submitted design score (out of 10)<br>
+M2 = 3 day strength (MPa) + (1- weight (in kg)/8.5)*35 + (1- water absorbed (in kg)/1.52)*15.<br>
+M3=Finding the missing data will carry 10 points.<br>
+M4=Compressive strength and water absorption test will carry 10 points.<br>
+M5=Viva conducted at the end will be of 5 points.<br>
+</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Vikash Kumar <br> Contact Number:+919740313778</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Dinesh <br> Contact Number:+918746938002</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			<em>Fix Ur Mix.</em> This event kick starts with a workshop on how to cast a concrete cube. The first time you will actually get a feeling of a civil engineer.Come and build your own cube! Be your Bob the Builder...
+			]]>
+		</summary>
+	</event>
+
+		<event id = "c5e2">
+			<id>c5e2</id>
+			<name>Smart Cities</name>
+			<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Description</h2>
+					<em>Your Chance To Build One</em><br>
+					    <p>With the current environmental situation, the need of the hour is to have a city with smart buildings, smart transportation and smart energy.
+						So here is your chance to plan a dream green city. 
+					    </p>
+					    <h2>Qualifying Round</h2>
+					    <p>Teams will play Eco-Monopoly. It is a business board game based round where the participants have to buy, sell and mortgage land with a twist. The lands have different environmental conditions and need various components to be sustainable. Major components of sustainability and eco-friendly tools of development are up for grabs. The top ten team who manage to get the best combination qualify to the next round and get a chance to plan their own ideal environment friendly city.</p>
+					    <h2>Final Round</h2>
+					    <p>Qualifying teams will be given the problem statement and a graph sheet with geological and environmental conditions. They need to plan the entire city under a given period of time. On basis of their positions of Round 1 they get 10-20 minutes extra time to plan.The teams need to plan their city considering Four factors: - Time, Environment, Budget and the overall plan of the city. The points will be awarded on the basis of these factors.</p>
+
+					<h2>Rules</h2>
+						<ol>
+							<li>Team of 2.</li>
+							<li>The decision of the judges and organizers will be final and abiding.</li>
+							<li>Any quarrels/arguments with the organizers at the market counters or in the game room will lead to disqualification. </li>
+
+
+						</ol>
+						<h2>Judging Criteria</h2>
+						<ol>
+							Round one
+							<li>Teams (10) with the highest score qualify for the next round.</li>
+							Round 2
+							<li>Teams obtaining most points through the above mentioned factors will bag the prize.</li>
+						</ol>
+						<h2>Contact</h2>
+						<h3>Event Head</h3>
+						<p>Name: Arjun Sharma <br> Contact Number:+918867602555</p>
+						<h3>Co-Event Head</h3>
+						<p>Name:Gaurav Singhal <br> Contact Number:+91988652760</p>
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				With the current environmental situation, the need of the hour is to have a city with smart buildings, smart transportation and smart energy.
+				So here is your chance to plan a dream green city. 
+
+				]]>
+			</summary>
+		</event>
+		<event id = "c5e3">
+			<id>c5e3</id>
+			<name>Civil Buzz</name>
+			<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Description</h2>
+					<em>A day in the life of a civil engineer </em><br>
+					    <p>Have you ever been in awe of the humongous structures around?
+						Have you ever been curious about how the natural resources are being discovered?
+						Have you ever pondered that who designs these structures?
+					    </p>
+					    <p>Don’t worry!!  I.E civil presents before you the event CIVIL BUZZ which would give you an insight about how things work at the fundamental level. This event briefly covers all the snippets that a civil engineer needs to know that can be really interesting and amusing. Participate and grasp some of the tricky fundas about how these works have been accomplished and believe it or not it would be a roller coaster ride with lots of new things to discover and learn!</p>
+
+					<h2>Rules</h2>
+						<ol>
+							<li>Team of 2 can participate.</li>
+							<li>Teams are required to plot their path on the map provided.</li>
+							<li>Participants have to reach the destination in the quickest possible time.</li>
+							<li>The decision of the judges and organizers will be final and abiding.</li>
+							<li>Any quarrels/arguments with the organizers  in the event room will lead to disqualification. </li>
+						</ol>
+						<h2>Judging Criteria</h2>
+							<h3>Qualifying Round</h3>
+							<p>Teams will be given a story line to trace path to reach the village. The Pre Tech Tatva Workshop knowledge will be put to use now. Time taken to reach the village, Identification of rocks and minerals from the given clues, Selection of material for renovation and cost effectiveness will be among the judging criteria that would be used.</p> 
+							<h3>Final Round</h3>
+							<p>Qualifying teams will be given a problem statement and they need to perform the necessary tasks to win the event. The tasks they perform will be judged based on the accuracy to the nearest pre-calculated values. Moreover time will be an important factor and marks will be provided based on the tasks done in the specified time. If a team exceeds the time limit negative marks will be provided.</p>
+
+						<h2>Contact</h2>
+						<h3>Event Head</h3>
+						<p>Name: Rohit Bihani <br> Contact Number:+919886544204</p>
+						<h3>Co-Event Head</h3>
+						<p>Name:Shruti Singh <br> Contact Number:+919740438944</p>
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				Have you ever been in awe of the humongous structures around?
+				Have you ever been curious about how the natural resources are being discovered?
+				Have you ever pondered that who designs these structures?
+				]]>
+			</summary>
+		</event>
+		<event id = "c5e4">
+			<id>c5e4</id>
+			<name>Risky Town</name>
+			<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Description</h2>
+					<em>No Risk No Gain</em><br>
+					    <pThere is a Master Plan to develop a deserted island into a township. Local Government and vendors have invited various companies (Teams) to take up various proposed projects in different parts of the island (e.g. Roadwork, Hospital, Elevated Highway, Sea Front, etc.) 
+					    </p>
+					    <p>The field of construction involves various minor and major risks at various stages. In the main round of the Event the teams will have to go through various risk factors in pursuit of completing their project in time and budget.</p>
+
+					<h2>Rules</h2>
+						<ol>
+							<li>Team of 2.</li>
+							<li>The decision of the judges and organizers will be final and abiding.</li>
+							<li>Any quarrels/arguments with the organizers at the market counters or in the game room will lead to disqualification. </li>
+						</ol>
+						<h2>Judging Criteria</h2>
+							<h3>Qualifying Round</h3>
+							<p>Teams take part in an auction to buy construction materials and one’s bidding most efficiently go through to the second round.Teams purchasing high market value products in addition to the budget saved go through to the second round.</p> 
+							<h3>Final Round</h3>
+							<p>Qualifying teams are given various projects to choose from. They are assigned their projects according to their position in the Qualifying Round and their given preferences. 
+							The teams need to build their projects considering three factors: - Time, Budget and Environment and a third defining factor i.e. the Risk factor which will ultimately depend upon the mentioned three factors. The points will be awarded on the basis of these factors.Teams obtaining most points through the abovementioned factors will bag the prize.</p>
+
+						<h2>Contact</h2>
+						<h3>Event Head</h3>
+						<p>Name: Mohit Mishra<br> Contact Number:+919740513541</p>
+						<h3>Co-Event Head</h3>
+						<p>Name:Dawn Mathew<br> Contact Number:+919526095261</p>
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				There is a Master Plan to develop a deserted island into a township. Local Government and vendors have invited various companies (Teams) to take up various proposed projects in different parts of the island (e.g. Roadwork, Hospital, Elevated Highway, Sea Front, etc.)
+				]]>
+			</summary>
+		</event>
+		<event id = "c5e5">
+			<id>c5e5</id>
+			<name>Civilian</name>
+			<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Description</h2>
+					<p>Feel the buzz in a Civil Engineers' life; take risks, get innovative and plan your town or make the strongest cube. Alongside, play with the online stock market and build your fortress.</p>
+					<h3>This is an online Event.</h3>
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				Feel the buzz in a Civil Engineers' life; take risks, get innovative and plan your town or make the strongest cube. Alongside, play with the online stock market and build your fortress.
+				]]>
+			</summary>
+		</event>
+</category>
+<category color = "cry">
+	
+	<event id = "c6e1">
+		<id>c6e1</id>
+		<name>Battle of the Bots</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Train your bot to overcome obstacles and twists in a maze using a set of fixed instructions. Implement basic concepts like recursion and the use of stack without having to code. May the best bot win! Non coding event.</p>
+				  
+				  
+				
+				<h2>Round 1</h2>
+				<p>Set of easy questions will be given. Top 8 or 12 teams to complete max number of questions will go into the final round.</p>
+				<h2>ROund 2</h2>
+				<p>Set of questions will be tougher. Top two teams to complete max number of questions will be awarded. </p>
+
+					<h2>Contact</h2>
+				    <h3>Event Head</h3>
+				    <p>Name: Arnav Akhouri <br> Contact Number:+919740559551</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Train your bot to overcome obstacles and twists in a maze using a set of fixed instructions. Implement basic concepts like recursion and the use of stack without having to code. May the best bot win! Non coding event.
+			]]>
+		</summary>
+	</event>
+	<event id = "c6e2">
+		<id>c6e2</id>
+		<name>BUG Tracker</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The main idea of the event is to related to bugs. You mission should you choose to accept is to find the bugs and make the code do what it should do.
+				    </p>
+				<h2>Round 1</h2>
+				<p>This round will contain 20 MCQ questions on general coding, aptitude and debugging code snippets. Out of all the teams participating in this round 12 teams will advance to the next round.</p>
+				<h3>Round 2</h3>
+				<p>This will be speed round where every team will be provided with 6 questions, one at a time and each team will have to debug the code and find the maximum number of bugs that they can find in the code within a stipulated time period. Out of 12 teams only 6 teams will advance to the next and final round. The key points in this round will be-</p>
+				<ol>
+					<li>There will be two slots of six teams each and each team will get a random and different question.</li>
+					<li>After a certain stipulated time the question sheet will be taken by each team and they will be given the next question. Like this each team will get to answer 6 different questions.</li>
+					<li>After solving six questions, the total bugs they find in all the six questions together will be their score.</li>
+					<li>The top 6 six teams will advance to the next round.</li>
+
+				</ol>
+				<h2>Round 3 </h2>
+				<p>This round will have 5 questions, given one at a time which will be long codes on paper and the teams will asked to debug the code on paper only. Then after they are done with the debugging they will have to run the code on the machine (their laptops) and it must run successfully in their first attempt. There must be no changes to the code while executing and it must be exactly the same as what they have solved on paper.</p>
+
+				<h2>Contact</h2>
+				    <h3>Event Head</h3>
+				    <p>Name: Rahael Saldana <br> Contact Number:+919481469416</p><br>
+				    <h3>Co-Event Head</h3>
+				    <p>Name: Rakesh Gangwar <br> Contact Number:+918867616555</p>
+
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			The main idea of the event is to related to bugs. You mission should you choose to accept is to find the bugs and make the code do what it should do....
+			]]>
+		</summary>
+	</event>
+	<event id = "c6e3">
+		<id>c6e3</id>
+		<name>Code Wars</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>A unique event split up into 3 rounds for checking the technical skills, coding behest and speed of the participants. Qualify the first round, earn points for buying and bidding by solving, and finally compete in a knockout round.</p>
+				  <h2>Round 1</h2>
+				  <p>Question papers containing the programming questions will be given to the teams. And at the end of 1 hour, top 12 teams will move to the 2nd round (based on the number of questions solved correctly).In case of a tie, time factor will be taken into account. Money will be awarded for each correct question. </p>
+				  <h2>Round 2</h2>
+				  <h3>Part 1</h3>
+				  <p>8 Questions will be displayed on projector and teams will be asked to solve them. First team to solve gets 100% of money associated with question, second 90%,third 80%,and after that 75% of money will be awarded. Each question may have same or different points. Top 7 teams after this round will proceed to next part.</p>
+				  <h3>Part 2</h3>
+				  <p>Each team will be given some bonus money based on prior round scores. They will use all their earned money to buy questions which will be displayed on the screen. There will bid for the questions. Each question will have multiplier which shows difficulty level of the question. Multiplied Money will be awarded to team if they solve. There will be 2 compulsory questions that every team needs to solve. Top 3 teams will move to next round.</p>
+				<h2>Round 3</h2>
+				<p>The 3 teams are split into 6 members.</p>
+				<p>Knockout 1: 2 questions will be displayed on the projector -- the first 4 to solve any one of those questions will remain in the contest.<br>
+Knockout 2 : Now the remaining 4 contestants will be given 2 questions one by one and a fixed time. <br>
+After every question a participant will be eliminated.<br>
+Knockout 3 :After 2 participants are left. They will play a 3 question round. Participant solving any 2 questions in minimum time will be the winner.<br>
+</p>
+					<h2>Contact</h2>
+				    <h3>Event Head</h3>
+				    <p>Name:Patistha Prasad <br> Contact Number:+919740480098</p><br>
+				    <h3>Co-Event Head</h3>
+				    <p>Name:Rohit Sinha<br> Contact Number:+919740589956</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+				A unique event split up into 3 rounds for checking the technical skills, coding behest and speed of the participants. Qualify the first round, earn points for buying and bidding by solving, and finally compete in a knockout round.
+
+			]]>
+		</summary>
+	</event>
+	<event id = "c6e4">
+		<id>c6e4</id>
+		<name>CyberHawk</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>An online cryptic hunt where players scavenge the Internet for clues to solve questions related to any field. You will be presented with the most bizarre, exciting and rare questions the planet has seen.</p>
+				    <h2>Contact</h2>
+				    <h3>Event Head</h3>
+				    <p>Name:Aakarsh Singh <br> Contact Number:+918884701990</p><br>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			An online cryptic hunt where players scavenge the Internet for clues to solve questions related to any field. You will be presented with the most bizarre, exciting and rare questions the planet has seen.
+			]]>
+		</summary>
+	</event>
+	<event id = "c6e5">
+		<id>c6e5</id>
+		<name>Online Coding</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>This is the place where the champions play. 96 hours of non-stop coding on your plate. Throw in some variables, some arrays and some loops. This must "wet" your appetite.</p>
+
+				    <h2>Contact</h2>
+				    <h3>Event Head</h3>
+				    <p>Name:Srivatsa Kumar <br> Contact Number:+919986819823</p><br>
+				    <h3>Co-Event Head</h3>
+				    <p>Name:Harsh Agarwal<br> Contact Number:+919740469550</p>
+				  
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			This is the place where the champions play. 96 hours of non-stop coding on your plate. Throw in some variables, some arrays and some loops. This must "wet" your appetite.
+			]]>
+		</summary>
+	</event>
+	<event id = "c6e6">
+		<id>c6e6</id>
+		<name>Short Code</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Every participant needs to submit a piece of code in any language that does a small task which could be anything from encryption in C++ to url shortening in PHP. The winner will be selected based on how efficient and small the code is and what task it accomplishes.</p>
+				  
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Every participant needs to submit a piece of code in any language that does a small task which could be anything from encryption in C++ to url shortening in PHP...
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "ele">
+	
+	<event id = "c7e1">
+		<id>c7e1</id>
+		<name>C.O.L.O.R</name>
+		<logo><![CDATA[ assets/logo/Electrific.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>To assemble a led circuit with RGB led(s) and using conductive paint.
+					</p>
+				 <h2>Round 1</h2>
+					<p>Teams have to make a combination of Capacitors, Resistors and Inductors to get a desired impedance value which was given on the spot. The assessment will be done on the basis of number of question solved and time taken.
+					</p>
+				<h2>Round 2</h2>
+					<p>For this round we ask the participants to design their own led circuits with/without RGB led(s) and using conductive paint.
+					</p>
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Only team members are allowed to work together.</li>
+						<li>Team size: 2 members.</li>
+						<li>Make use of all the components given.</li>
+						*rules are subject to change.
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The completed circuit will be evaluated by the panel of judges based on design of circuit, neatness, working, etc.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Subham Sharma  <br> Contact Number:+917795389686</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			To assemble a led circuit with RGB led(s) and using conductive paint.
+			]]>
+		</summary>
+	</event>
+		<event id = "c7e3">
+		<id>c7e3</id>
+		<name>Maglev</name>
+		<logo><![CDATA[ assets/logo/Electrific.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Electrical is not always about circuits, wires, motors or transformers, it is more about magnetism. Most electrical components and machines use magnets and its properties for its working. Maglev, a basic but clean, cheap and modernized mode of transportation uses just the basic 1 line principle of “alike poles repel” for its efficient application. A technology yet to be introduced in India comes from the textbooks of basic science of class 6th - 7th.</p>
+				 <h2>Problem Statement</h2>
+				 <p>You have to design your “Magnetic Levitation Vehicle” that stays afloat on a magnetic track and race to finish it.</p>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>The prelims would consist of a test which would comprise questions of objective type, covering basics of magnetism and magnetic properties. </li>
+						<li>In case of a tie between two teams, certain questions in the test, pre-assigned as tie-breaker questions would be compared. </li>
+						<li>Based on the result of the prelims round, about 6-8 teams will make it to the finals. They need to build their own maglev vehicle with light material such as wood, cardboard, etc.</li>
+						<li>In the final round the team will be provided with a straight track made of uniform magnetic material and 2 magnets per team. </li>
+						<li>The vehicle’s dimension needs to be just as same as the track because bigger vehicle won’t fit in and smaller won’t stay in alignment while racing.</li>
+						<li>No. of participants per team- 3(max).</li>
+					
+					
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>In the final round, the teams would be judged on the basis of the following points:-</p>
+					<ol>
+						<li>Time taken to complete the race.</li>
+						<li>Design of the vehicle (practical application of the shape used, placement of motor, air resistance offered due to shape and placement of motor wires for the supply).</li>
+						<li>Weight of the vehicle.</li>
+					</ol>
+					<p>The team with maximum points, as given by the judges would be declared the winner.</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Samriddh Sharma <br> Contact Number:+918867385999</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ You have to design your “Magnetic Levitation Vehicle” that stays afloat on a magnetic track and race to finish it.
+			
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c7e4">
+		<id>c7e4</id>
+		<name>Coil Gun</name>
+		<logo><![CDATA[ assets/logo/Electrific.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>A coil gun is a keen space-age toy without any moving parts, within which lies the magic of invisible forces, making it scalable for large applications.	</p>
+				 <h2>Round 1</h2>
+					<p>The prelims would consist of a 60 min, test which would comprise  questions of objective type, covering basics of electronics components and their applications, electromagnetism and their applications.
+					</p>
+				<h2>Round 2</h2>
+					<p>In the final round team will be provided with the components and have to rig up the circuit accordingly in the allotted time. 
+					</p>
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Team Specifications : 3 (Max) Members per Team. </li>
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li><h3> ROUND 1:</h3>
+						<ol>
+							<li>Marks will be given on the basis of no. of questions correctly answered. 0.5 negative marking per question will also be calculated. </li>
+						</ol>
+					    </li>
+
+						<li><h3> ROUND 2:</h3>
+						<ol>
+							<li>Marks will be given on the basis of final range (average of all three chances) covered by the bullet. </li>
+							<li>The first point of contact of the bullet will be considered for distance measurement, in case it rolls further on the grounds. </li>
+							<li>The distance will be measured from the tip of the barrel in the horizontal ground.</li>
+						</ol></li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: : Alhamd<br> Contact Number:+918867244877</p>
+			]]>
+		</detail>
+		<summary>  
+			<![CDATA[ Build an electro-magnetic coil gun which runs on the given dc power supply to fire a given small ferromagnetic “bullet” material to the maximum possible horizontal distance.
+			
+			]]>
+		</summary>
+	</event>
+</category>
+
+
+<category color = "ene">
+	
+	<event id = "c8e1">
+		<id>c8e1</id>
+		<name>Eco-Audit</name>
+		<logo><![CDATA[ assets/logo/Energia.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>“If we have any hope of finding ways for seven billion people to live well on planet with finite resources, we have to learn to use our resources efficiently.”
+
+Audit a company’s energy and resource consumption and tackle the real time operational issues.
+
+					</p>
+				 <h2>Round 1</h2>
+					<p>Participants will be bidding for various set of components (like paints, lightings etc.) used in a building with an initial virtual money balance given to them. Every item in set of components comes up with different cost and with different levels of carbon emissions, participants who are most economical in auction and having components with least carbon emission will move to second round.</p>
+				<h2>Round 2</h2>
+					<p>Each team will be given a specific operational issue being faced by a company. Participants are required to follow the instructions and criterial given in the problem statement to audit the company’s resource end energy utilization record and come up with the solution of the same.
+					</p>
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Maximum team member = 2
+						<li>Every team must have an item from each set of component (like paint, lighting etc.).
+						<li>There will be disqualification if the balance of a team runs out during auction.
+						<li>No additional money will be given to any team of they run out of balance.
+						<li>The details of the second round will be revealed on the spot.
+						<li>For auditing calculations use of calculator is permitted. 
+
+					</ol>
+					
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Suvigya Awasthi  <br> Contact Number:+919886545925</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			If we have any hope of finding ways for seven billion people to live well on planet with finite resources, we have to learn to use our resources efficiently.
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c8e2">
+		<id>c8e2</id>
+		<name>Swades</name>
+		<logo><![CDATA[ assets/logo/Energia.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>“As for the future, your task is not to foresee it, but to enable it”
+						The opportunity to plan out a better city is right in front of you. The participants here get an opportunity to relocate some infrastructure in the city to make it more ecofriendly and less hazardous to nature.
+						The event will give the participants a better insight into the planning of a city and will also enable them to appreciate the mind boggling difficulties in the process.
+
+					</p>
+				 <h2>Round 1</h2>
+					<p>It is a treasure hunt. “FUN is what awaits you and a bit of “Manipal Awareness” and “Common Sense” are the prerequisites.”</p>
+				<h2>Round 2</h2>
+					<p>Selected participants will be given information about six infrastructures located in wrong places and the environmental hazards caused due to them. The participants are required to shift these structures to suitable locations as per the rules and regulations. The details of the second round will be revealed on the spot.</p>
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Maximum Team Members : 3
+					</li>
+							
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Judges decision will be final and binding. </li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name:Yash Sinha<br> Contact Number:+918867600699</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			“As for the future, your task is not to foresee it, but to enable it”
+						The opportunity to plan out a better city is right in front of you. The participants here get an opportunity to relocate some infrastructure in the city to make it more ecofriendly and less hazardous to nature.
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c8e3">
+		<id>c8e3</id>
+		<name>Urja Rachna</name>
+		<logo><![CDATA[ assets/logo/Energia.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Light it up- Design your own remote controlled LED table lamp.
+					Build a working model of a LED lamp which can be operated using an IR transmitter and a receiver. 
+					</p>
+							
+				<h2>Rules</h2>
+					<ol>
+						<li>Maximum team members : 3
+						<li>Maximum number of LED’s that can be used is 30.
+						<li>High Power LED’s not permitted.
+						<li>Should be able to work on both AC (240 volt) & DC (max 15 volt)
+						<li>The circuit used should be same as taught in the pre-techtatva workshop ( Minor changes can be incorporated as required)
+						</li>
+											
+					
+					</ol>
+					<h2>Judging Criteria</h2>
+				<ol>
+						<li>Cost Effectiveness</li>
+						<li>Reduction in power consumption</li>
+						<li>Comparable luminous levels as produced by conventional fixtures.</li>
+						<li>Light distribution pattern.</li>
+						<li>Aestheticism (Mechanical Design).</li>
+						<li>Automatic Switching & dimming control facility (OPTIONAL)</li>
+						<li>Effective heat dissipation.</li>
+						<br>
+						Also, a detailed report stating the under mentioned is required to be submitted along with the models.
+
+						<li>Concept</li>
+						<li>Which lighting fixture is being proposed to be replaced with the model</li>
+						<li>Advantages of the Design</li>
+						<li>And also efficiency (wrt distance of operation) of IR remote.</li>
+
+
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Pramathyu Awasthi  <br> Contact Number:+919740587674</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ Use LEDS to make a power efficient LED lamp and provide an alternative for any of the conventional lighting fixtures; also design a stable mechanical model for it. A pre-techtatva workshop will be organized for the same.
+			
+			]]>
+		</summary>
+	</event>
+</category>
+
+
+
+<category color = "eps">
+	
+	<event id = "c9e1">
+		<id>c9e1</id>
+		<name>Smart Cane</name>
+		<logo><![CDATA[ assets/logo/Epsilon.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The event is a threefold event where we will be concentrating on the problems encountered by the visually impaired on a day to day basis. The essence of the event will be sensor interfacing with a medical perspective.
+</p>
+						  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>No voltage anywhere in the circuits should increase beyond 12 volts
+						<li>Flammables cannot be used
+						<li>One team can have a maximum of 4 participants
+						<li>Any malpractice shall lead to disqualification
+						<li>Participants should be present for all stages and adhere to deadlines
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>20 points for the number of useful functions of the cane. More the number of logical functions, more the number of points awarded. 
+						<li>20 points for easy to carry, good design and appeal. 
+						<li>20 points awarded on the basis of the level of working of the various functions of the cane.
+						</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Rashida Taskin   <br> Contact Number:+919620010601</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			It is a threefold event where participants will be made familiar with concepts in Arduino. That will be followed by a presentation of the prototype, after which the participants can submit their models for evaluation.
+			 ]]>
+		</summary>
+	</event>
+	
+		<event id = "c9e2">
+		<id>c9e2</id>
+		<name>Scientia:The Tech Race</name>
+		<logo><![CDATA[ assets/logo/Epsilon.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>This is a three day mental marathon where teams of three will test their brains and brawn racing around campus solving puzzles and show their survival skills. 
+					</p>
+				 <h2>Round 1</h2>
+					<p>The aptitude test : 
+					Participants are grouped into teams of three and have to answer a questionnaire comprising of 90-100 questions. Questions can be of logical, analytical, basic science or general knowledge type. Depending on the number of participants, ten will proceed to the next round. 
+					Judging criteria: Accuracy of answers within the time provided. 
+					</p>
+				<h2>Round 2</h2>
+					<p>The tech race : 
+					Checkpoints will be set up all across campus; clues will be given to the ten qualified teams whose answers are the various checkpoints. The number of checkpoints will be around eight or nine. The top five teams will qualify to the next round. 
+					Judging criteria: Team efficiency and speed. 
+						</p>
+				  <h2>Round 3</h2>
+					<p>The invention round : Top five teams has to create a model based on given specifications and under monetary constraints that will be specified.  The model will be disclosed only to the qualifying teams at the event venue. 	</p>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Teams can have a maximum of three members
+						<li>Participants have to stick to the time and logistic restrictions provided. 
+						<li>Unfair means shall lead to immediate disqualification.
+	
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The teams will be marked on a total of 50. Marks distribution is as follows. 
+						<li>10 marks each for practical usability & cost effectiveness 
+						<li>10 marks for functionality
+						<li>10 marks for originality
+						<li>10 marks for out of the box presentation 
+						<li>10 marks for efficiency 
+						</li>
+					
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Eshwari Dathathri <br> Contact Number:+918722151142</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[
+			This is a three day mental marathon where teams of three will test their brains and brawn racing around campus solving puzzles and show their survival skills. 
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c9e3">
+		<id>c9e3</id>
+		<name>Medapps</name>
+		<logo><![CDATA[ assets/logo/Epsilon.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The first round will be a workshop conducted on the basics of app development also basics of human physiology, working of human body so as to make an app that pertains to patient aiding. The event held after, will pertain to evaluation of the prepared apps, their presentation and fruitful discussions. </p>
+
+								
+				<h2>Rules</h2>
+					<ol>
+						<li>The Application must be related to the problem statement in some way and focus on the topic mentioned.
+						<li>The Application must be on Android Platform.
+						<li>The Application must not be something already existing on the Play Store and thus should implement something new and creative.
+						<li>Individual participation is allowed, each team can have a maximum of two participants.
+						</li>
+								
+					</ol>
+					
+					
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>App UI – 20%
+						<li>App Working – 30%
+						<li>Health Consideration – 30%
+						<li>Creativeness – 20%
+						</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Kaushal Saraf <br> Contact Number:+918867385777</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Focus will be on human health and will aim towards wellness and healthcare thus providing various apps for the same by combining the concepts of Android Platform Coding and Biomedical Engineering.  The best app compiled gets launched on app store!
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "giz">
+	
+	<event id = "c10e1">
+		<id>c10e1</id>
+		<name>Demorse</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p> A fun event pertaining to the practical implementation of the programming concepts of microcontrollers. The event is preceded by an all-inclusive workshop- from learning the basic concepts of controllers to the programming of a microcontroller for a huge array of functionalities. Interfacing and working of the required external peripheral will also be taught.</p>
+				<h2>Problem Statement</h2>
+				<p>Participants are required to program any microcontroller of their choice to receive and decipher the message transmitted by a transmitter in Morse Code. The transmitter will consist of an LED which will blink for a specific duration for every character (as in a standard Morse Code) and the receiver will require the use of a sensor to detect these changes and an LCD matrix to display the decoded result.*Participants are required to make only the receiver and decode the message transmitted by the organizers.</p>
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants may take part individually or in teams. Maximum members in a team = 3.
+						</li>
+						<li>The codes have to be burnt on the device before appearing for the final testing.
+						</li>
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>On the final day of the event the receiver would be tested in several rounds. The organizers would test the receiver’s output when they transmit various letters, words etc. from their transmitter. The receiver must be able to correctly decode and display the sent symbol(s). Partial outputs would be considered as per the discretion of the organizers. Each level has certain amount of points which would be awarded accordingly. The team with the maximum amount of points wins. The decision of the organizing committee would be final and binding.
+					</p><h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Ujan Sengupta  <br> Contact Number:+918951415570</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			A fun event pertaining to the practical implementation of the programming concepts of microcontrollers. The event is preceded by an all-inclusive workshop- from learning the basic concepts of controllers to the programming of a microcontroller for a huge array of functionalities...
+	]]>
+		</summary>
+	</event>
+	
+		<event id = "c10e2">
+		<id>c10e2</id>
+		<name>Dexter's Den</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p> An event which tries to test the basic circuit knowledge every engineer should have. It is based on the various concepts of analog and digital electronics.	</p>
+				
+				  
+				<h2>Problem Statement</h2>
+				<p>First round will consist of a written quiz with questions from basic knowledge of electronics, communication systems and electrical engineering.
+				In the second round, the participants will be given a virtual credit amount using which they have to buy components to make the required circuits. 
+				They’ll have to design an analog circuit to get the given waveform as output and buy components using the credits given to them to implement the circuit. Similarly they have to implement a digital circuit in the shortest amount of time to fulfill the given problem statement.</p>
+
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants may take part individually or in teams. Maximum members in a team = 2.
+						<li>The teams have to make use of only the components provided by the organizing committee.
+						<li>Teams may ask for hints during the course of the event for which some credits will be deducted.
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>
+					A group of judges would be inspecting the circuit made and the degree of correctness of the output obtained. Each judge would evaluate the teams under several criterion. Also the amount of credits left at the end and the time taken would be accounted for during the final tally. The team with the maximum amount of points wins. The decision of the organizing committee would be final and binding.
+					</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Abhinav Gupta<br> Contact Number:+919035133603</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[  
+			An event which tries to test the basic circuit knowledge every engineer should have. It is based on the various concepts of analog and digital electronics.
+	]]>
+		</summary>
+	</event>
+	
+		<event id = "c10e3">
+		<id>c10e3</id>
+		<name>Fox Hunt</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>It is Technical Treasure Hunt. Participants will be learning the working of antennas by actually making a model themselves and using it to find the hidden transmitter.
+					</p>
+					<h2>Round 1</h2>
+					<p>First round will consist of a set of questions related to basic electronics and concepts of antennae, signals and systems and various associated devices and terminologies.	</p>
+				<h2>Round 2</h2>
+					<p>Teams qualifying for the second round would be attending a workshop where they will be taught the basic working principles of an antenna as well as the steps to build a working receiver antenna there itself. Using the same they have to roam around the MIT campus and search for a hidden transmitter by detecting the signals transmitted by it.	</p>
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants should take part in teams of 2/3 members.
+						<li>Workshop will be only for people who qualify for the second round.
+						<li>While roaming around the campus, participants should not use any unfair means.
+
+					</ol>
+				<h2>Judging Criteria</h2>
+					<p>The winner will be the team which finds the transmitter first. In case of any discrepancies, the decision of the organizing committee will be binding.</p>
+					
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Sanyyam Gupta <br> Contact Number:+919035166602</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			It is Technical Treasure Hunt. Participants will be learning the working of antennas by actually making a model themselves and using it to find the hidden transmitter.
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c10e4">
+		<id>c10e4</id>
+		<name>Gameroid</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>A fun event pertaining to the practical implementation of the programming concepts of microcontrollers. The event is preceded by an all-inclusive workshop- from learning the basic concepts of controllers to the programming of a microcontroller for a huge array of functionalities. Interfacing and programming of the externals peripherals will also be taught.
+
+					Participants are required to interface an LCD screen to any microcontroller of their choice and write program codes to simulate various popular and simple games on the matrix (e.g. Snake, Shoot’em up)
+
+					</p>
+			
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants may take part individually or in teams. Maximum members in a team = 3.
+						<li>The codes have to be burnt on the device before appearing for the final testing.
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>On the final day of the event the implemented games will be tested. A group of judges will be inspecting the module made and testing it’s functionality for the various games implemented. Each judge would evaluate the teams under several criterion. The team with the maximum amount of points wins. The decision of the organizing committee would be final and binding.
+					</p>
+						
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: : Ashlesh Bhat<br> Contact Number:+919743287773</p>
+			]]>
+		</detail>
+		<summary>  
+			<![CDATA[ 
+			A fun event pertaining to the practical implementation of the programming concepts of microcontrollers. The event is preceded by an all-inclusive workshop- from learning the basic concepts of controllers to the programming of a microcontroller for a huge array of functionalities...
+			]]>
+		</summary>
+	</event>
+	
+			<event id = "c10e5">
+		<id>c10e5</id>
+		<name>The Mat-Race</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The event will consist of a question bank with problems from various fields for which the solutions have to be in MATLAB.
+					</p>
+				<h2>Problem Statement</h2>
+				<p>Questions will be released weekly; the problem statement for each being fully comprehensive in itself. Participants have to submit the MATLAB code for the solution of that week's question. </p>
+				<h2>Rules</h2>
+					<ol>
+						<li>Only individual participation. Participants are required to send their solutions along with their name, registration number and contact number. Participants of other colleges should mention their college name and year.
+							<li>For every question, the solution must reach the organizers on or before the date last mentioned to be considered for judgment.
+							<li>Codes have to be complete in every respect pertaining to the problem to be considered as a solution. 
+							<li>Codes must be free of all forms of syntax errors.
+							<li>In case of one participant sending multiple codes, only the last submitted code before the deadline will be considered.
+					</ol>
+					<h2>Judging Criteria</h2>
+					<p>The organizers will verify the solution submitted to verify it against all the requirements of the question. In case of multiple correct entries, the entry received first would get more points. Participants would be accredited with points during the entire course of the event and the participant with maximum points would be judged the winner. The decision of the organizing committee is final and binding.	</p>
+						
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: : Ankit Sharma<br> Contact Number:+918123676615</p>
+			]]>
+		</detail>
+		<summary>  
+			<![CDATA[ 
+			  The event will consist of a question bank with problems from various fields for which the solutions have to be in MATLAB.
+			]]>
+		</summary>
+	</event>	
+</category>
+
+<category color = "kra">
+	
+	<event id = "c11e1">
+		<id>c11e1</id>
+		<name>Amphibious Assault</name>
+		<logo><![CDATA[ assets/logo/Kraftwagen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>To design and build a remote controlled electric powered vehicle that should be able to move on both land and water. The participants have to complete the tasks in minimum time possible. A workshop will be provided for 2 days.	</p>
+				 <h2>Model Specifications</h2>
+				 <ol>
+				 <li>The basic principle is that it should be able to transverse on both land and water. The dimensions must not exceed .5m length and .3m breadth.
+				<li>The bot must be motor powered, use of IC engines is not allowed. 
+				<li>The participants are free to use material of their choice.
+				<li>Use of readymade kits is strictly prohibited
+				<li>Use of multiple motors and actuators is allowed.
+				<li>A run is said to be complete when bot completes the run and crosses the finish.
+				<li>The bot must be a single item when it enters the event.
+				<li>Any team not following the rules shall be disqualified.
+				</ol>
+				
+				<h2>General Rules</h2>
+				<ol>
+				<li>Basic kit will be provided to each team.
+				<li>All teams must be present before the commencement of the event, failure to do so will result in disqualification.
+				<li>	A workshop will be provided for the event for 2 days.
+				<li>	Maximum team size: 5 per team.
+				<li>	The teams must adhere to the spirit of healthy competition.
+				<li>	The organizers reserve the right to change any of the above rules.
+				<li>	The organizers reserve the right to disqualify the team for misconduct, malpractice etc.
+				<li>	The decision made by judging community shall be considered final and unchallengeable.
+				</ol>
+				
+				<h2>Rules</h2>
+					<ol>
+					
+					<li>	Team Size: 5
+					<li>	The participant has to navigate the bot in given area with following conditions:
+					<ol>
+					<li>Successfully completed the task assigned.
+					<li>	Minimum time.
+					<li>	Least number of contacts with obstacles.
+					<ol>
+					<li>In each attempt, only one member of the team is allowed to come near the arena and navigate the bot.
+					<li>	A run is said the be complete when the bot crosses the starting line and finishes the task and returns to finish.
+					<li>	Time of navigation is the total time taken to complete a run. 
+					<li>	A maximum of 2 runs will be provided to each team to perform the task.
+					<li>	The best timing of the 2 shall be considered for final scoring.
+					<li>	The team with maximum score and least time shall be adjudged winners.
+					<li>	Each contact with any object in the arena except the targets shall be considered for negative scoring.
+					<li>	A contact shall be reported by organizers and be considered final.
+
+					</ol>
+					
+					<h2>Arena</h2>
+					<ol>
+					<li>The bot starts at one end of a 3m long and 1m wide track.
+					<li>Completing the track, the bot enters a water region through a ramp of 1.5 m length, sloped at 66 degrees.
+					<li>The maximum level of water in the tank is .5m
+					</ol>
+					
+					
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Task (T1) = 40 points
+						<li>	Pattern task, avoiding obstacles (P1):80 points
+						<li>	Return Task(R1): 20 points.
+						<li>	Drag task (D1): 40*N (No. of balls dragged into goal)
+						<li>	Penality(P2): 20*N (no. of contacts)
+						<li>	Total Score= T1+P1+R1+D1-P2 
+					</ol>
+					
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Rush out the adrenaline, Dare to go beyond the limits of land… surge through waters and land by making your own amphibious bot.
+Make a move to be the one amongst the greatest. Participate in this crackerjack event AMPHIBIOUS ASSAULT.
+
+			]]>
+		</summary>
+	</event>
+	
+		<event id = "c11e2">
+		<id>c11e2</id>
+		<name>Delta Surge</name>
+		<logo><![CDATA[ assets/logo/Kraftwagen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>A raft will be made using the logistics provided/ specified. It will have to pass through a set of obstacles and reach a destination where it will be loaded with weights. The raft will have to collects rings on its way with the help of a hooking mechanism and then bring both the weights and the rings to the finish line. The hooking mechanism can be actuated (by hydraulics only). The parameters considered are the load bearing capacity, stability and speed of the raft. The event will be conducted in two rounds of which the first will be an elimination round.	</p>
+				
+				  <h2>Model Specifications</h2>
+				<ol>
+				<li>	The basic requirement of the raft is that it should be able to carry weight.
+				<li>	The raft should have a hooking mechanism on it in order to collect the rings.
+				<li>	The bot should be powered using only electric motors (provided in kit) to provide propulsion.
+				<li>	The voltage across any point in the electrical circuit should not increase more than 12V DC.
+				<li>	The participants are free to use materials of their choice to increase the stability of the raft other than the logistics provided but use of extra electronic material will not be allowed.
+				<li>	Any team violating the above rule will be disqualified immediately.
+				<li>	Hydraulics will be used to actuate the rudder to maneuver the raft.
+				<li>	A run is said to be complete when the raft crosses the finishing line after completing the task.
+				<li>	All electrical components of the model should be properly insulated and water proofed to avoid any foreign object damaging the components. This point is to be paid utmost attention as there are many factors which would disturb the working of the electrical components while completion of the task.
+
+				</ol>
+			
+			
+				<h2>Rules</h2>
+				<ol>
+					<li>	Team Size: 3</li>
+					<li>	The participant has to navigate the raft in a given arena with these conditions:
+					<ol>
+						<li>	 Successfully completing the task assigned. 
+						<li>	Minimum time.
+						<li>	Least number of contacts
+					</ol></li>
+					<li>	A maximum of 5 minutes per run would be allotted to the team to complete the run.</li>
+					<li>	In each attempt, two persons are allowed to come near the arena and navigate the bot. </li>
+					<li>	A run is said to be complete when the bot crosses the finishing line and comes completes the task.</li>
+					<li>	Time of navigation is defined as the total time taken to complete a run.</li>
+					<li>	Participants will be given 2 runs to perform the task.</li>
+					<li>	Best of 2 timings will be accounted for final scoring.</li>
+					<li>	While the persons are at the arena, other members of the team are not allowed to come inside the arena.</li>
+					<li>	The team with maximum score+ least amount of time taken to complete the lap (after taking all penalties and bonuses into consideration) will be adjudged winners.</li>
+					<li>	Each contact with any object in the arena (except for the specified targets) accounts to penalty in scores.</li>
+					<li>	A contact is reported by organizers and their decision is final and abiding.</li>
+				</ol>
+								
+					<h2>Marking Scheme<h2>
+					<ol>
+					<li>	Points for load bearing: 20 points per 100 grams</li>
+					<li>	Points for collecting rings: 5 per ring</li>
+					<li>	Design: Teams will be scored by the judges out of 10 points max.</li>
+					<li>	 Time taken: 
+					<ol>
+					<li>If run is completed within 3 minutes-20 points</li>
+						<li>	 If run is completed within 4 minutes-10 points</li>
+						<li>	 If run is completed within 5 minutes-5 points</li>
+						<li>	  5 minutes or greater: 0 points</li>
+					</ol></li>
+					<li>	Penalty: 1 point per collision.</li>
+					</ol>
+
+					
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The weight carried.</li>
+						<li>Number of rings collected.</li>
+						<li>Design.</li>
+						<li>Time taken.</li>
+						</ol>
+						<p>There will be negative marking if the raft collides with the obstacles on its way.
+						</p>
+					
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: : Kaustubh Shenai<br> Contact Number:+918867502888</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Build a rescue raft and get ready for the test, 
+Be innovative to be the best, 
+Let the ideas merge… it’s time for DELTA SURGE.
+	]]>
+		</summary>
+	</event>
+	
+		<event id = "c11e3">
+		<id>c11e3</id>
+		<name>Auto Master</name>
+		<logo><![CDATA[ assets/logo/Kraftwagen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>This is a quiz type event which requires the participants to answer a set of questions in a stipulated time and collect points. The questions are given on a daily basis. A bonus question is also given to score extra points. The team with the most number of points at the end of the complete series wins.
+					</p>
+				<h2>Problem Statement<h2>
+				<p>
+				The participants are given a set of three questions every day. Each question is of one of the following type:
+				<ol>
+				<li>Modelling: The participants are required to create a model of some mechanical or automobile part on software like CATIA/ Solid Edge.</li>
+				<li>Technical: The participants have to answer a technical question from the field of automobile engineering.</li>
+				<li>Trivia: A trivia based question from the automotive industry is to be answered.</li>
+				</ol>
+				A bonus question that requires the participants to complete some sort of task and upload a picture of them with the completed task will also be given.
+				Points will be given based on the time at which they submit their answers (the earlier they submit, the more points they get). This will be decided on the basis of pre-defined time deadlines.
+				The team to score the most number of points at the end of all the sets of questions wins.</p>
+
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>The team consists of a maximum of 3 participants.
+						<li>The questions will be sent at 5pm on every day
+						<li>The timeout for the round will be 5pm the next day (after 24 hours)
+						<li>If the team answers the question set sent to them before 12 midnight the same day, only then will they get a bonus question to be solved by the end of the deadline
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+					<li>Trivia question <br>
+						Correct answer:  +20<br>
+						Wrong answer:  –10
+					<li>Technical question <br>
+						Correct answer:  +30<br>
+						Wrong answer: –10
+					<li>Modelling question : Marks will be given out of 50 depending on accuracy
+					<li>Bonus question <br>
+						Correct answer:  +50<br>
+						Wrong answer: –30
+
+					<li>If any question is left unanswered, no marks will be given or deducted
+					</ol>
+
+
+<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Pranav Pendse <br> Contact Number:+919740384389</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ We give you 2 questions,
+						We give you 2 tasks
+						And we give you 24 hours,
+						Collect your points to claim position as auto master.
+
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "mec">
+	
+	<event id = "c12e1">
+		<id>c12e1</id>
+		<name>Junkyard wars</name>
+		<logo><![CDATA[ assets/logo/Mechanize.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>A two round competition involving the basic knowledge of mechanisms involved in machines and craftsmanship in workshops.
+				    </p>
+				<ul>
+				<li>The first round involves a working model of less complexity built with readily available articles within the specified time limits.</li>
+				<li>The second round is conducted in workshop in which the participants are required to make a working model of higher complexity using industrial grade logistics and tools within the specified time limits.
+				</li>
+				</ul>
+				<h2>Rules and Judging Criteria</h2>
+				  <h3>ROUND 1</h3><br>
+				  <ol>
+				  	<li>The given time is 3 hours.</li>
+				  	<li>Judging will be based on following points
+				  		<ul>
+				  				<li>Design – on Judges’ discretion</li>
+				  			    <li>Performance testing</li>
+				  				<li>Dimensional constraints</li>
+				  		</ul>
+				  	</li>
+				  </ol>
+				  <h3>ROUND 2</h3><br>
+				  <ol>
+				  	<li>The participants are required to make MECH BASED CONTRAPTION within the given time of 3 hours.</li>
+				  	<li>The participants can use the workshop tools.</li>
+				  	<li>Judging will be based on following points
+				  		<ul>
+				  				<li>Design – on Judges’ discretion</li>
+				  			    <li>Performance testing</li>
+				  				<li>Dimensional constraints</li>
+				  		</ul>
+				  	</li>
+				  </ol>
+				  <h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Kumar Vishal <br> Contact Number:+919740513953</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Sri harsha  <br> Contact Number:+919886595162</p>
+					<p>Name: Raghav  <br> Contact Number:+9109740379582</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			A two round competition involving the basic knowledge of mechanisms involved in machines and craftsmanship in workshops.
+			]]>
+		</summary>
+	</event>
+	<event id = "c12e2">
+		<id>c12e2</id>
+		<name>Assemble-Diassemble</name>
+		<logo><![CDATA[ assets/logo/Mechanize.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>In the event, as the name goes, the participating teams will be provided with a component which they’ll first have to dissemble and then assemble the same dissembled component in the given time limit. But, before this even happens, the participating teams will first have to clear a written aptitude test.
+				    </p>
+				<h2>Details</h2>
+				<h3>Round 1(Aptitude Test)</h3>:<p>The participating teams will have to take an aptitude test and the qualifying teams will make it to the 2nd Round, the aptitude test being completely </p>
+				<h3>Round 2(The Face-Off)</h3>:<p>The teams that will make it to this round will then compete against each other trying to first dissemble a given component and then assembling the same, within the given time limit.</p>
+				<h2>Rules</h2>
+				<p>Up to 2 members in a team</p>
+					<h2>Judging Criteria</h2>
+					<p>The winner will be decided based on various judging criteria, the major ones being listed below:	<br>
+				Round 01: The teams will be judged on the basis that how many questions are marked correctly by them, also there will be negative marking.<br>
+				Round 02: In this round, the winner will be chosen by judging on various criteria such as speed and precision in assembling.</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Kirti Vardhan Pant <br> Contact Number:+919740537892</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Sahil Gavankar  <br> Contact Number:+918884728858</p>
+					<p>Name: Abhishek Kalagara   <br> Contact Number:+919493086878</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			In the event, as the name goes, the participating teams will be provided with a component which they’ll first have to dissemble and then assemble the same dissembled component in the given time limit...
+			]]>
+		</summary>
+	</event>
+	<event id = "c12e3">
+		<id>c12e3</id>
+		<name>Cad it up</name>
+		<logo><![CDATA[ assets/logo/Mechanize.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Participants will be taught to create 3-D models on designing software (SOLID EDGE , CATIA, PRO E….) from the isographic figures, along with tips and techniques for industrial applications and explanations to sheet soldering and moulding.</p>
+				    <h2>Time Duration: 2 Hours</h2>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Akash Thakore <br> Contact Number:+919740465751</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Anushthup Biswas<br> Contact Number:+919740465334</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Use Cad software like Solid edge to make something amazing.
+			]]>
+		</summary>
+	</event>
+	<event id = "c12e4">
+		<id>c12e4</id>
+		<name>Recreate Da Vinci</name>
+		<logo><![CDATA[ assets/logo/Mechanize.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The participants be given three choices from which they will have to pick one and make a small scale prototype of it.  The said choices will be inventions of the great inventor Leonardo da Vinci.</p>
+				    <h2>Round 1</h2>
+				    <p>The first round will involve the participants to show case their respective models which will be judged on the basis of the judging criteria.</p>
+				    <h2>Round 2</h2>
+				    <p>The second round will be a quiz between the winners of the individual categories. The said quiz will be based on life and inventions of Leonardo Da-Vinci.</p>
+				
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Odometer: 100 - (original distance ~ measured distance)in cm.</li>
+						<li>Parachute: (100- distance in cm from bull’s-eye) + (Time of flight in seconds) * 10- 40 pts if payload pops out of basket(provided by us).</li>
+						<li>Revolving bridge: Total load lifted in Kgs. * 100, without toppling.</li>
+						<li>Each of the models will be marked out of 50 for their design.
+						</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Shivank Srivastava  <br> Contact Number:+919902566670</p>
+					<h3>Co-Event Head</h3>
+					<p>Name: Maheedar Korimi   <br> Contact Number:+918867626777</p>
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			The participants have to make any one model of the given three choices. The said three choices are inventions of Leonardo Da-Vinci
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "met">
+	
+	<event id = "c13e1">
+		<id>c13e1</id>
+		<name>Augmented Reality</name>
+		<logo><![CDATA[ assets/logo/Mechatron.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p><b>14th Sep 2079<b><br>
+Area-701: Battalion 21 has been lost to the enemy. We are currently retreating. It is an emergency situation and we need your assistance. The war cannot be won with the current equipment. We were told that you are a team of scientists and engineers known for their product design. The details of the mission are confidential and we can’t give them to you through this communication channel, but all we can tell you is that you better be prepared for creating a product which will greatly increase our chance to fight back. You have to register and travel here for any further information. 
+</p>
+<p>Read the backstory at <a href = "http://augmentedrealitytechtatva.blogspot.in/" target ="_blank">
+augmentedrealitytechtatva.blogspot.in</a></p>
+				  
+				  
+				<h2>Problem Statement</h2>
+				<p>
+				<h3>Round 1</h3><br>
+				Create a proposal for a product embracing futuristic technology based on a scenario provided during the competition. The proposal will be written on sets of papers provided. The proposals will be carefully examined and 8 teams will be selected (subject to change depending on number of teams participating).</p>
+				<h3>Round 2</h3><br>
+				<p>The proposal then needs to be explained in front of a military board which will drill you with questions based on what you have written. A working presentation made on power point would be expected. The best product will be declared as the winner.</p>
+				<h2>Rules</h2>
+					<ol>
+						<li>The communication channels at the centre will be closed and thus access to the internet or phone would be prohibited.</li>
+						<li>Team of maximum 3 members. </li>
+						<li>Your product should be original and not be plagiarized. Military doesn’t entertain dishonest work.</li>
+						<li>You will be given 2 hours to work out a proposal and write it down in the sheets provided.</li>
+						<li>A detailed labelled drawing is expected.</li>
+						<li>Try and stick to scientific principles.</li>
+						 <li>Presentation should be under 8 minutes.</li>
+						<li>Basic drawing material and/or rough sheets to be carried with you.</li>
+						<li>Laptops can be carried as well.</li>
+				</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						Round 1:
+						<li>Creativity</li>
+						<li>Originality</li>
+						<li>Scientific accuracy</li>
+						<li>Connection to scenario</li>
+						Round 2:
+						<li>Delivery</li>
+						<li>Confidence</li>
+						<li>Response to questions</li>
+						<li>Team effort</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name:Shubhang Goswami <br> Contact Number:+917829727935</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Battalion 21 has been lost to the enemy. We are currently retreating. It is an emergency situation and we need your assistance. The war cannot be won with the current equipment. We were told that you are a team of scientists and engineers known for their product design...
+			]]>
+		</summary>
+	</event>
+	<event id = "c13e2">
+		<id>c13e2</id>
+		<name>Ball Coaster</name>
+		<logo><![CDATA[ assets/logo/Mechatron.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Design and build a roller coaster for a round metallic ball (approximately the size of a marble) using a variety of materials ranging from stationery such as rulers and pencils to electrical items such as wires and motors, etc. The participants will be made to roll a standard sized ball through their roller coaster. The team that makes the most complex design and manages to keep it rolling inside their roller coaster for the maximum time wins.</p>
+				  
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants can form a team of upto 4 people for this event.</li>
+						<li>Teams will be given a specified venue where they can build their roller coaster and they will be given approximately 3 days to build it.</li>
+						<li>Basic material to build the roller coaster such as pencils, rulers and support structures, etc. will be given to the teams, but the participants will have to buy some material on their own too.</li>
+<li>The participants are free to use any other material of their choice, both electrical and non-electrical, but they must inform the Organisers or the Event Head about the same before purchasing it.</li>
+<li>The Roller Coaster must have a defined Start and Stop point.</li> 
+<li>The ball should NOT traverse any path of the roller coaster twice.</li>
+<li>The Roller Coaster should be made within a restricted area of 4ft x 4ft. </li>
+<li>The ball of a standard size will be given to all the teams.</li>
+<li>Teams will be made to roll the ball inside the roller coaster TWICE and the better of the two timings will be considered.</li>
+<li>At no point should the ball come to rest inside the roller coaster. If it does, then the time for which the ball remains stationary will be subtracted from the total time taken by the ball to complete the path.</li>
+<li>For every time that the ball falls out of the roller coaster, 2 seconds will be deducted from the total time and the ball will resume rolling from the point at which it went out.</li>
+<li>Every time that a team member needs to manually interfere with the ball or the roller coaster, a time penalty of 1 second will be imposed, i.e. 1 second will be deducted from the total time.</li>
+<li>There will be two chances given to each team. The better of the two timings will be considered.</li>
+<li>The team with the best design coupled with the maximum time at the end will win.</li>
+<li>The judge’s decision will be final and binding on the participants.</li>
+<li>Limited registrations will be taken for this event. Registrations will be on a first come first serve basis.</li>
+
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>The teams will be judged on the time taken by the ball to complete the path of the roller coaster, and on their design.</li>
+						<li>The Roller Coaster must contain at least one 360 degree loop and one jump.</li> 
+						<li>At no point should the ball come to rest inside the roller coaster. If it does, then the time for which the ball remains stationary will be subtracted from the total time taken by the ball to complete the path.</li>
+						<li>For every time that the ball falls out of the roller coaster, 2 seconds will be deducted from the total time and the ball will resume rolling from the point at which it went out.</li>
+						<li>Every time that a team member needs to manually interfere with the ball or the roller coaster, a time penalty of 1 second will be imposed, i.e. 1 second will be deducted from the total time.</li>
+						<li>There will be two chances given to each team. The better of the two timings will be considered.</li>
+						<li>The team with the best design coupled with the maximum time at the end will win.</li>
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Vehzan Rustomji <br> Contact Number:+918867633933</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Design and build a roller coaster for a round metallic ball (approximately the size of a marble) using a variety of materials ranging from stationery such as rulers and pencils to electrical items such as wires and motors, etc.
+			]]>
+		</summary>
+	</event>
+		<event id = "c13e3">
+		<id>c13e3</id>
+		<name>Mind storming</name>
+		<logo><![CDATA[ assets/logo/Mechatron.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>With the development of new technologies by the day, methods of implementation of robotics systems keep evolving; and with competition in the industry always at its peak, it is imperative for top engineers to be capable of orienting themselves to understand and use any new tools available in the market. Based on the LEGO Mindstorms Robotics kit, ‘Mindstorming’ tests the participant’s ability to adapt to new programming platforms, to dry-run their code and thus solve robotic problem statements. LEGO Mindstorms robots can be programmed in a number of text based and even graphic based languages such as NXC, RobotC, Lejos, LabVIEW, NXT-G, etc. This event will focus on the official programming language of Mindstorms, NXT-G, which will be taught in a 4 day pre-TechTatva workshop.</p>
+				    <p>
+					This event consists of three rounds of the same objective: to program a solution to the given problem statement(s) using the given robot structure.  Participating Teams will not have to build any robots of their own, but rather, only program those provided by the organisers. Each problem statement will comprise of one or more tasks, each of which will carry a fixed number of points. Completing these tasks according to the specifications of the problem statement will award the team the points associated with the completed task. Complete solution of the problem statement will also carry a certain number of points. Before the commencement of each round, teams will have to submit their code via email to the event head at the email mentioned in the “Contact” section. The points secured by each team and the time of submission of code together will qualify teams from one round to the next. The winner of this event will be the team that scores the highest in all rounds of competition.</p>
+				  
+				  <h2>Problem Statement</h2>
+				  <p>Given in each of these links is the problem statement for the respective round</p>
+				  <ul>
+				  	<li><h3><a href = "https://drive.google.com/file/d/0Bx5_JWGwqjIFdGZ5c0llMGFSVFU/view?usp=sharing">
+				  		Round 1 (8th October)[Click for more details]</a></h3></li>
+				  	<li><h3><a href = "https://drive.google.com/file/d/0Bx5_JWGwqjIFN0YxV3dQQ0tCcDQ/view?usp=sharing">
+				  		Round 2 (10th October)[Click for more details]</a></h3></li>
+				  		<li><h3><a href = "https://drive.google.com/file/d/0Bx5_JWGwqjIFN2Q4Q2s5VFJPNkU/view?usp=sharing">
+				  		Round 3 (11th October)[Click for more details]</a></h3></li>
+				  </ul>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Participants can take part in teams of maximum 2 members.</li>
+						<li>All registered participants will be provided with the software for programming in NXT-G. A four day workshop (software installation and overview inclusive) will be conducted during the pre-TechTatva period.</li>
+						<li>Participants need not stick to the use of NXT-G. They are free to use any other programming language supported by the LEGO Mindstorms NXT (Controller Brick), but must inform the event organisers about this prior to the round.</li>
+						<li>Participants need not build their own robots. Only the robot provided by the organisers will be used for competition.</li>
+						<li>Points for each task in a round will be awarded on complete execution of that task.</li>
+						<li>All teams will be given only one chance to try their code and this will be considered as their final round of evaluation.</li>
+						<li>All teams are required to submit their code via email to the event organisers at the mentioned email ID. Failure of doing so will result in the team being given the status of “Code Not Submitted”.</li>
+						<li>Teams will qualify to subsequent rounds based on the total points acquired in the previous round. In the case of a tie, the time of submission of code will decide the qualifying team.</li>
+						<li>Teams should be ready to explain their code to the judges if asked to do so.</li>
+						<li>The judge’s verdict will be final.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+					<ol>
+						<li>Teams will be awarded points based on their ability to complete certain specified tasks. These tasks and the points associated with them will be announced at least a day before each round.</li>
+						<li>Teams will have to submit their code for each round before the commencement of that round. Failure to do so will result in the team being given the status of “Code Not Submitted”.</li>
+						<li>Qualification of teams to subsequent rounds will be based on the total number of points collected in the previous round, and their time of submission of code.</li>
+						<li>The winning team will be that which gains the most number of points through all the competition rounds.</li>
+
+					</ol>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Winston Mendonca <br> Contact Number:+919035202207</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+				For the first time in Manipal, TechTatva ’14 brings you an event using LEGO!! Yes, that’s the very same company whose products children play with. But this event is no child’s play. Based on the versatile LEGO Mindstorms kit, the objective of the event is to test participants’ abilities of adapting to new programming platforms of automated systems.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "rob">
+	
+	<event id = "c14e1">
+		<id>c14e1</id>
+		<name>Break The Maze</name>
+		<logo><![CDATA[ assets/logo/Robotrek.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Teams must build a bot that navigates through a given maze in minimum possible time. The bot can traverse to the end via multiple paths (as in a maze). Each path will consist of different obstacles which include rocky, sandy, grassy etc. surfaces. The bot should have a mechanism to break thermocol walls in order to move forward.</p>
+				  
+				  
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Team Size: Maximum 3 members in a team</li>
+						<li>Bot size: 30X30X20 cm. </li>
+						<li>Voltage source: 12V. </li>
+						<li>Bot can only break walls set up as blockades not Maze walls.</li>
+						<li>Use of flammables for block breaking or for locomotion not permitted.</li>
+						<li>Any number of motors allowed.</li>
+						<li>Bots should not damage the maze.</li>
+						<li>The bot cannot break the wall by simply barging into it.</li>
+
+					</ol>
+					<h2>Judging Criteria</h2>
+						<h3>Round 1 </h3>
+						<p>Contestants will be given 3 minutes to complete the maze. If the bot is not able to clear the maze in 3 minutes then it will be disqualified. Top 5/7(based on participation) teams with least time will qualify for round 2.</p>
+
+						<h3>Round 2</h3>
+						<p>
+						Contestants will be given 2 minutes 30 seconds to complete the maze. Top 3 teams with least timing will win. Final time = (Round 1 time * 0.5 + Round 2 time). There will be some change in maze surfaces (obstacles).
+						</p>
+						<h3>Note:</h3> <p>Points will be awarded for passing thru different surfaces and breaking the thermocol walls. These points will be considered along with the timings for both the rounds. </p>
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+				When the going gets tough, the tough get going. Traverse the tricky terrains, beat the maze and break through to glory. Teams must build a bot that navigates through a given maze in minimum possible time. The bot can traverse to the end via multiple paths (as in a maze).
+			]]>
+		</summary>
+	</event>
+	<event id = "c14e2">
+		<id>c14e2</id>
+		<name>Bull's Eye</name>
+		<logo><![CDATA[ assets/logo/Robotrek.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Build a manually controlled robot capable of traversing over irregular terrains, jump from the cliff, shooting down a dart and finish the course. 
+Different points will be awarded for hitting the darts on different zones of the dart board. Dart type to be used will be provided to the participant beforehand. Use of pneumatic systems is allowed.
+</p>
+				<h2>Sample Arena</h2>
+				<img src = "uploads/arena.png" alt = "Sample Arena "/>
+				<ol>
+					<li>Dimensions : 360x150 cm</li>
+					<li>Irregular terrain: Sand and gravel (marked by grey)</li>
+					<li>Slope: Wooden boards inclined at 25 degree using thermocol and ply as support.</li>
+					<li>Dart board: regular size dart board with darts placed at 100 cm from the ground</li>
+				</ol>
+				
+				<h2>Rules</h2>
+					<ol>
+						<li>Total time given to each team will be 3 minutes and max team size is 4.</li> 
+						<li>Maximum Bot size: 30x30x20 cm</li>
+						<li>The team can take any number of re-tries, clock will keep ticking.</li> 
+						<li>Flammable devices for shooting darts are not allowed.</li>
+						<li>Game is finished when the bot shoots the dart on the board or if the time runs out.</li>
+						<li>Participants are not allowed to damage the arena</li>
+						<li>In case of a tie the judgment of the organizers’ will be final.</li>
+						<li>Max Voltage allowed: 24V</li>
+						<li>Participants are not allowed to skip any region and must traverse the track completely to win.</li>
+						<li>Only two members per team are allowed with the bot near the arena.</li>
+						<li>Participants are not allowed to interact with the judges.</li>
+						<li>Any material used by the participant is their own and will not be provided for by the organizers.</li>
+						<li>The bot has to interweave between all the obstacles near checkpoint 1.</li>
+						<li>Before shooting the dart the bot must be behind the shooting line.</li>
+						<li>The bot is allowed only one dart and is not allowed to make any adjustments to the dart.</li>
+						<li>The dart will be provided to the teams. It will be a standard dart used in darting.</li>
+
+					</ol>
+					<h2>Gameplay</h2>
+					
+						There will be two rounds:<br>
+
+						<h3>Round 1</h3> 
+						<p>All the teams will have to traverse the arena and complete the given task. Four teams with the highest points shall be allowed to proceed into the second round.</p>
+
+						</h3>Round 2</h3>
+						<p>All four teams shall participate and the team that scores the maximum points wins.
+						<b>Final score= (0.25* Round1 Score) + (0.75*Round2 Score)</b></p>
+						<h2>Scoring Pattern </h2>
+						<ol>
+						<li>Checkpoint 1: If the bot crosses between the poles: 10 pts. </li>
+						<li>Reached at completion of checkpoint 1: 10pts </li>
+						<li>Checkpoint 2: Crosses the Irregular terrain: 25pts</li>
+						<li>Checkpoint 3: Climb the cliff: 10pts </li>
+						<li>Jump from the cliff: 10*d Where d is Truncate (distance from base of cliff / 10)</li>
+						<li>Shooting the dart : 3*(score get by dart scoring) </li>
+						<li>50 points extra for wireless bots.</li>
+					</o>
+					
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Build a manually controlled robot capable of traversing over irregular terrains, jump from the cliff, shooting down a dart and finish the course. Different points will be awarded for hitting the darts on different zones of the dart board.
+			]]>
+		</summary>
+	</event>
+	<event id = "c14e3">
+		<id>c14e3</id>
+		<name>The Transporter</name>
+		<logo><![CDATA[ assets/logo/Robotrek.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Design and build a wired/ wireless bot which can traverse through a path filled with obstacles in order to pick up blocks which are placed in a different part of the arena. After this the robot has to place the blocks in certain voids made in the arena by choosing the shortest path.<br>
+					Note: Readily available remote control systems may be used.	</p>
+				<h2>Gameplay</h2>
+					<p>In the 1st Round, teams have to pick a block of plastic and place the plastic blocks in the specified voids using the shortest path. Points will be given on the basis of the design of the bot and its performance in the event. Also, the time taken to complete a given task will be considered. The top 5 teams will qualify for the final round. </p>
+					<p>In the final round, a number of blocks will be placed in the treasure zone arena. The bot needs to reach that part of the arena, pick up the blocks one by one and place them in a separate part of the arena. The teams will be given 3 minutes to transport as many blocks as they can. The team which is able to transport the maximum number blockswill be the winner. </p>
+				<h2>Basic Rules of the Event</h2>
+					<ol>
+					<li>The Bot is required to pick and place plastic blocks. A bot is required to place at least one block otherwise it is disqualified.</li>
+						<li>Every team will be allotted a particular time to complete the event. After the time is up, contestants are required to power down the bot. Any movement thereafter will lead to disqualification.</li>
+						<li>The voids and blocks will be of the dimensions of 8 cm x 8 cm x 5 cm (L*B*H). The blocks will be solid plastic blocks not weighing more than 40 grams.</li>
+
+					</ol>
+					<h3>General Rules</h3>
+					<ol>
+						<li>Any team that is not ready at the time specified will be disqualified.</li>
+						<li>The name of your machine must be prominently displayed on the machine.</li> 
+						<li>In no case should the arena be damaged by any bot.</li>
+						<li>The organizers reserve the rights to change any or all of the above rules as they deem fit.</li>
+						<li>Change in rules, if any will be highlighted on the website and notified to the registered teams.</li>
+						<li>Violation of any of the above rules will lead to disqualification
+						<li>Decision of organizers will be final and binding on all.</li> 
+						<li>Once the robots have entered into the arena, no team member can enter into the arena at any point of time. </li>
+
+					</ol>
+					<h2>Team Specifications and Eligibility</h2>
+						<p>
+							<br><h3>Eligibility:</h3> Students of any recognized engineering college are eligible to participate.  
+							<br><h3>Team Specification:</h3>Any team can participate in the event. A team may consist of a maximum of 3 participants. These participants can be from same or different institutes.   
+							<br><h3>Team Name:</h3> Every team must have a name which must be unique. ROBOTREK reserves the right to reject entries from any Team whose name deems inappropriate, offensive or conflicting. Organizers must be notified if a team's name has been changed.   
+							<br><h3>Team Representative:</h3> Each team must specify their Team Representative (Leader) at the time of registration. All important communications between ROBOTREK and the registered teams will be done through their Team Representative. The Team Representatives must submit valid contact details (phone no., email ID etc.) at the time of registration.
+						</p>
+					<h2>Bot Specifications</h2>
+						<p><h3>Dimensions and Fabrications:</h3>
+						The machine should fit in a box of dimension 300 mm x 300 mm x 300 mm (l x b x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint. </p>
+						<p><h3>Power Sources:</h3>
+						Each team must prepare its own power sources. Only 220V volt AC sources will be provided at the arena, but can only be used in the form of DC voltage. The teams have to bring their own battery eliminators.  
+						The voltage difference between any two points in the machine should not be more than 36V DC at any point of time.  
+						 All connections should be made safe to prevent short circuits and battery fires. Any unsafe circuitry may be asked to be replaced; failure to do so will result in disqualification. </p> 
+
+						<p><h3>Mobility: </h3>
+						All robots must have easily visible and controlled mobility mechanism in order to compete.
+						Any method of mobility which leads the robot to lose contact with the ground is not allowed.
+						All robots must have a working end effector mechanism.  Any bot that fails to lift even a single block will be disqualified. </p>
+
+					<h2>Robot Control Requirement</h2>
+					<ol>
+						<li>Both wired and wireless remote controls are allowed in the event.</li>
+						<li>All wires coming out of the robot should be bundled as a single unit.</li> 
+						<li>The wires should be properly protected and insulated. </li>
+						<li>The wire should be sufficiently long so as to remain slack at all time during the competition.</li>
+						<li>In case of wireless remote controls, the remote should have at least two frequency operations to prevent interference with other team.</li>
+						<li>Teams are recommended to attach a pipe to bot in vertical direction through which wires come out. The length of pipe will not be considered in bot dimension.</li>
+					</ol>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Manoeuver your bot through a tricky course and become “The Transporter at Techtatva’14”.Design and build a wired/ wireless bot which can traverse through a path filled with obstacles in order to pick up blocks which are placed in a different part of the arena. 
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "tur">
+	
+	<event id = "c15e1">
+		<id>c15e1</id>
+		<name>Robo_code</name>
+		<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Robocode uses the RoboCode API to  program virtual bots which will be taught during the workshop. The bots are pitched against each other and the one standing at the end of the final battle wins.</p>
+				  
+				  <h2>Problem Statement</h2>
+				    <p>Create a bot using the RoboCode library and modify it suitably according to the simulated environment.</p>
+				
+
+				<h2>Rules</h2>
+					<p>Bots MUST be made using the RoboCode library, using any other library will lead to disqualification. 
+					Bots must be sent to the category in the form of a compiled package with the code. Absence of either the code or package will lead to loss of points.</p>
+					<h2>Judging Criteria</h2>
+					<p>Bots will be tested by the event head and co-event head in a simulated environment. Bots shall be pitted against each other at random and the last bot standing will be declared as the winner.</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Kalim<br> Contact Number:+918867612111</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+				Robocode uses the RoboCode API to  program virtual bots which will be taught during the workshop. The bots are pitched against each other and the one standing at the end of the final battle wins.
+			]]>
+		</summary>
+	</event>
+	<event id = "e15e2">
+		<id>e15e2</id>
+		<name>Game Dev</name>
+		<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>GameDev revolves around participants designing and programming their games in the libgdx 2-d game engine.</p>
+				  
+				  <h2>Problem Statement</h2>
+				  <p>Participants must design a fully-functional, content rich 2-d game in the specified engine.</p>
+				
+				<h2>Rules</h2>
+					<p>Participants must use the libgdx library. Additionally, participants must provide the game to the category in it's entirety, with the code. Lack of any will lead to loss of points and possible disqualification.</p>
+					<h2>Judging Criteria</h2>
+					<p>Entries shall be judged on the idea behind the game, efficient use of the engine and interactivity.</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name: Mukund<br> Contact Number:+919740464079</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			GameDev revolves around participants designing and programming their games in the libgdx 2-d game engine.
+			]]>
+		</summary>
+	</event>
+	<event id = "c15e3">
+		<id>c15e3</id>
+		<name>Mobivision</name>
+		<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>MobiVision is based on app development for the mobile platform and aims to promote new trends on it. This year the category shall be accepting Android and iOS apps for submission.</p>
+				  <h2>Problem Statement</h2>
+				  <p>Participants need to design a fully functional Android/iOS app.</p>
+				<h2>Rules</h2>
+					<p>Apps must be based on either the Android or iOS environment. Apps on any other platform will not be accepted.</p>
+					<h2>Judging Criteria</h2>
+					<p>
+						Apps shall be judged on their content, use of native libraries and focus on design.
+					</p>
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name:Kartik <br> Contact Number:+918197738959</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			MobiVision is based on app development for the mobile platform and aims to promote new trends on it. This year the category shall be accepting Android and iOS apps for submission.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "gam">
+	<event id = "c16e1">
+		<id>c16e1</id>
+		<name>Gaming</name>
+		<logo><![CDATA[ assets/logo/Gaming.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Gaming, Though not 'technical' to the untrained eye, Is at the end of the day, A form of art. A tournament to death, In some cases, seems necessary. So here goes, calling out to warriors and artists alike, to come and help us create magic for everyone to see in this battle of skill and talent at the gaming event at Tech Tatva 2014!</p>
+					<h2>List of Games</h2>
+					<ol>
+						<li>Counter Strike : Global Offensive  (5 vs 5)</li>
+						<li>Call of Duty : Modern Warfare 3  (5 vs 5)</li>
+						<li>Defense of The Ancients 2  (5 vs 5)</li> 
+						<li>FIFA 14 (1 vs 1)</li>
+						<li>Age of Empires 2  (2 vs 2)</li>
+					</ol>
+
+					<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Name:Mayank Agarwal<br> Contact Number:+919620669866</p>
+					<h3>Co-Event Head</h3>
+					<p>Name:Karan Parmar<br> Contact Number:+918105001019</p><br>
+					<p>Name:Nikhil Shankar<br> Contact Number:+919740564607</p>
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+				Gaming, Though not 'technical' to the untrained eye, Is at the end of the day, A form of art. A tournament to death, In some cases, seems necessary.So here goes, calling out to warriors and artists alike, to come and help us create magic for everyone to see in this battle of skill and talent at the gaming event at Tech Tatva 2014!
+			]]>
+		</summary>
+	</event>
+	</category>
+</events>

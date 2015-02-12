@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<categorylist>
+<list color = "air" href = "#two">Airborn</list>
+<list color = "biz" href = "#three">BizZmaestro</list>
+<list color = "che" href = "#four">Cheminova</list>
+<list color ="con" href = "#five">Constructure</list>
+<list color = "cry" href = "#six">Cryptoss</list>
+<list color = "ele" href = "#seven">Electrific</list>
+<list color = "ene" href = "#eight">Energia</list>
+<list color = "eps" href = "#nine">Epsilon</list>
+<list color = "giz" href = "#ten">Gizmo</list>
+<list color = "kra" href = "#eleven">Kraftwagen</list>
+<list color = "mec" href = "#twelve">Mechanize</list>
+<list color = "met" href = "#thirteen">Mechatron</list>
+<list color = "rob" href = "#fourteen">Robotrek</list>
+<list color = "tur" href = "#fifteen">Turing</list>
+
+</categorylist>
+<category color = "air">
+	
+	<event id = "c2e1">
+		<id>c2e1</id>
+		<name>Water Rocket</name>
+		<logo><![CDATA[ assets/logo/Airborne.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Use of aerodyanimc and other concepts to make a water rocket</p>
+				<h2>Description</h2>
+				    <p>Participants will be taught how to build the rocket for the competition.</p>
+				<h2>Duration</h2>
+					<p>2 days - 2 hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Saurav Srivastava - 9740374343</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Participants will be taught how to build the rocket for the competition.
+			]]>
+		</summary>
+	</event>
+	<event id = "c2e2">
+		<id>c2e2</id>
+		<name>RC Balloon </name>
+		<logo><![CDATA[ assets/logo/Airborne.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>The participants will be taught how to build an Rc balloon with detailed explanation of electronics.</p>
+				<h2>Duration</h2>
+					<p>2 days - 2 hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<br><p>Ved Merchant: +918970139894</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			The participants will be taught how to build an Rc balloon with detailed explanation of electronics.	
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "eps">
+	
+	<event id = "c9e1">
+		<id>c9e1</id>
+		<name>MedApps</name>
+		<logo><![CDATA[ assets/logo/Epsilon.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Android Application to detect eye movement.</p>
+				<h2>Description</h2>
+				    <p>The workshop will focus on developing android app using the Camera of the phone.</p>
+				<h2>Duration</h2>
+					<p>1st Day (2 hours), 2nd Day( 8 hours)</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+					<p>Kaushal Saraf - 8867385777</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			The Workshop would be based on making inferences through the sensors present on our Android Phones.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "con">
+	
+	<event id = "c5e1">
+		<id>c5e1</id>
+		<name>Civil Buzz</name>
+		<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>A Day in Life of Civil Engineer.</p>
+				<h2>Description</h2>
+				    <p>Does trekking excite you? Did you ever get tangled in those lines on the map? Have you ever deciphered the rocks around you? Have you ever wondered what the civil engineers do out there with those instruments with them? Welcome to Civil Buzz Tech Tatva 2014. Civil Buzz Workshop will be your chance to learn all about those instruments, rocks and minerals, topographical maps and many of the basic concepts of Civil Engineering that you have always wondered about. It will be an insight for you in the world of a civil engineer and its little known application in your life.</p>
+				<h2>Duration</h2>
+					<p>1 day - 3 hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Rohith Bihani Contact: 09886544204</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			To give general terminologies used in Civil Engineering and there application.
+					Such as knowledge of Contours, reading maps, getting topography of a region, Basic information about beams,	columns, slab etc.
+			]]>
+		</summary>
+	</event>
+	<event id = "c5e2">
+		<id>c5e2</id>
+		<name>Concreation</name>
+		<logo><![CDATA[ assets/logo/Constructure.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Fix Your Mix.</p>
+				<h2>Description</h2>
+				    <p>It would give you into design of a concrete mix of particular strength and also the pre-requiste knowledge required to cast the cubes.</p>
+				<h2>Duration</h2>
+					<p>1 day - 3 hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Vikash Kumar Contact: 9740313778</p>
+				
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			It would give you into design of a concrete mix of particular strength and also the pre-requiste knowledge required to cast the cubes.
+			]]>
+		</summary>
+	</event>
+	</category>
+
+	<category color = "cry">
+	
+	<event id = "c6e1">
+		<id>c6e1</id>
+		<name>Android Widget</name>
+		<logo><![CDATA[ assets/logo/Cryptoss.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Learn how to design Android Widgets.</p>
+				<h2>Description</h2>
+				    <p>A two day exiting workshop on Android Widget development whose main aim is to create easily 
+					accessible trays or icons to increase user convenience with great functionality and user experience for android based platforms.</p>
+				<h2>Duration</h2>
+					<p>Day 1 - 3 hours,	 Day 2 - 3 hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Kaushal Saraf - 8867385777</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			A two day exiting workshop on Android Widget development whose main aim is to create easily 
+					accessible trays or icons to increase user convenience with great functionality and user experience for android based platforms.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "ele">
+	
+	<event id = "c7e1">
+		<id>c7e1</id>
+		<name>Conduvtive Paint</name>
+		<logo><![CDATA[ assets/logo/Electrific.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Making conductive paint</p>
+				<h2>Description</h2>
+				    <p>It teaches the participants how to make conductive paint, while demonstrating with help of a simple circuit. </p>
+				<h2>Duration</h2>
+					<p>1 Hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>SUBHAM SHARMA (7795389686)</p>
+				
+				
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			It teaches the participants how to make conductive paint, while demonstrating with help of a simple circuit. 
+			]]>
+		</summary>
+	</event>
+	<event id = "c7e2">
+		<id>c7e2</id>
+		<name>Maglev</name>
+		<logo><![CDATA[ assets/logo/Electrific.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Designing a “Magnetic Levitation Vehicle” that stays afloat on a magnetic track and race to finish it.</p>
+				<h2>Description</h2>
+				    <p>Maglev, a basic but clean, cheap and modernized mode of transportation uses just the basic 1 line principle
+					of “alike poles repel” for its efficient application. </p>
+				<h2>Duration</h2>
+					<p>3 Hours</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>SAMRIDDH SHARMA (8867385999, 9591317634)</p>
+				
+				
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Maglev, a basic but clean, cheap and modernized mode of transportation uses just the basic 1 line principle of “alike poles repel” for its efficient application. 
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "ene">
+	
+	<event id = "c8e1">
+		<id>c8e1</id>
+		<name>Urja Rachna</name>
+		<logo><![CDATA[ assets/logo/Energia.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Use LEDS to provide an alternative for any of the conventional lighting fixtures.</p>
+				<h2>Description</h2>
+				    <p>Do fine soldering, familiarize with different electronic components, can get an experience
+					of making a mechanical support for a lamp. </p>
+				<h2>Duration</h2>
+					<p>3 days (2hr theory + 5hrs soldering +3hr mechanical model)</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Vatsal Misra (8867485999 , 9972995405)</p>
+
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Do fine soldering, familiarize with different electronic components, can get an experience of making a mechanical support for a lamp.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "giz">
+	
+	<event id = "c10e1">
+		<id>c10e1</id>
+		<name>Gizmo Basics Workshop</name>
+		<logo><![CDATA[ assets/logo/Gizmo.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Teaching the participants microcontroller basics as well as other advanced capabilities for use in the events.</p>
+				<h2>Description</h2>
+				    <p>Will teach microcontroller theory and coding from a base level which is a requisite for De-Morse and Gameroid under
+					the category followed by dedicated sessions for each of the two events.</p>
+				<h2>Duration</h2>
+					<p>3 days for general basics, 2 days for Gameroid and 1 day for De-Morse</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Harshita Dhal - 9008770710 , Shreeja - 7204116634</p>
+
+				
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Will teach microcontroller theory and coding from a base level which is a requisite for De-Morse and Gameroid under the category followed by dedicated sessions for each of the two events.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "kra">
+	
+	<event id = "c11e1">
+		<id>c11e1</id>
+		<name>Delta Surge</name>
+		<logo><![CDATA[ assets/logo/Kraftwagen.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Theory behind the working of the raft.</p>
+				<h2>Description</h2>
+				    <p>Soldering and welding if required pertaining to a certain bot model will be taught.
+					Demonstartion of the prototype model will be done.Rules and regulations of the event and
+					a general description of the bot components.</p>
+				<h2>Duration</h2>
+					<p>Day 1: 1 hour , Day 2: 3-4 hours </p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Sanjana Adeshra 9886602866</p>
+
+				
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Soldering and welding if required pertaining to a certain bot model will be taught.Demonstartion of the prototype model will be done.
+			]]>
+		</summary>
+	</event>
+</category>
+<category color = "met">
+		
+		<event id = "c13e1">
+			<id>c13e1</id>
+			<name>Basics of Robotics with LEGO</name>
+			<logo><![CDATA[ assets/logo/Mechatron.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Problem Statement</h2>
+						<p>Programming Robotics systems made with LEGO</p>
+					<h2>Description</h2>
+						<p>Teaching participants the basics of robotics systems and programming and train them in the NXT-G Language.</p>
+					<h2>Duration</h2>
+						<p>4 Days</p>
+					<h2>Contact</h2>
+						<h3>Event Head</h3>
+							<p>Winston Mendonca - 9035202207</p>
+
+					
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+					Teaching participants the basics of robotics systems and programming and train them in the NXT-G Language.
+				]]>
+			</summary>
+		</event>
+</category>
+<category color = "tur">
+		
+		<event id = "c15e1">
+			<id>c15e1</id>
+			<name>ROBOCODE</name>
+			<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Problem Statement</h2>
+						<p>Introduction to the RoboCode library</p>
+					<h2>Description</h2>
+						<p>The RoboCode library is used to create an artificial environment where bot fights are simulated. Last bot standing is the winner.
+						Day 1: Introduction to the RoboCode library. Day 2: Intermediate RoboCode concepts and bot design Day 3: Introduction to advanced design
+						and strategies</p>
+					<h2>Duration</h2>
+						<p>3 Days</p>
+					<h2>Contact</h2>
+						<h3>Event Head</h3>
+							<p>Kalim Akram: 8867612111</p>
+
+					
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				The workshop is going to focus on Open Source RoboCode libraries based in Java.The workshop is NOT for those who haven't worked/studied Java yet, since the RoboCode library is quite advanced.
+				]]>
+			</summary>
+		</event>
+
+		<event id = "c15e2">
+			<id>c15e2</id>
+			<name>MOBIVISION</name>
+			<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Problem Statement</h2>
+						<p>Introduction to app development in Android</p>
+					<h2>Description</h2>
+						<p>Android as a platform is ever growing and is currently extremely popular. The workshop introduces participants to app development on the Android platform.
+						Day 1: Introduction to the android environment and installation of the sdk. Day 2: Intermediate android concepts Day 3: Introduction to advanced android topics</p>
+					<h2>Duration</h2>
+						<p>3 Days</p>
+					<h2>Contact</h2>
+						<h3>Event Head</h3>
+							<p>Kartik Arora:8197738959</p>
+
+					
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				Workshop shall be an introduction to Android development. Enthusiasts shall be presented an opportunity to learn app design, create their personal design sheets and use that on the app that they would code.
+				]]>
+			</summary>
+		</event>
+		<event id = "c15e3">
+			<id>c15e3</id>
+			<name>GAMEDEV</name>
+			<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Problem Statement</h2>
+						<p>Introduction to the Libgdx game library.</p>
+					<h2>Description</h2>
+						<p>The Libgdx library is used for 2D games. The aim of the workshop is to introduce and teach participants about the Libgdx library and how it
+						can be used to create a 2d game.
+						<br>Day 1: Introduction to the libgdx library  and it's installation. 
+						<br>Day 2: Intermediate libgdx concepts
+						<br>Day 3: Introduction to advanced libgdx topics</p>
+					<h2>Duration</h2>
+						<p>3 Days</p>
+					<h2>Contact</h2>
+						<h3>Event Head</h3>
+							<p>Mukund Goyal: 9740464079</p>
+
+					
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				The Libgdx library is used for 2D games. The aim of the workshop is to introduce and teach participants about the Libgdx library and how it can be used to create a 2d game.
+				]]>
+			</summary>
+		</event>
+
+		<event id = "c15e3">
+			<id>c15e4</id>
+			<name>Java</name>
+			<logo><![CDATA[ assets/logo/Turing.png ]]></logo>
+			<detail>
+				<![CDATA[ 
+					<h2>Problem Statement</h2>
+						<p>A basic workshop on the java language</h2>
+						<h2>Description</h2>
+						<p>Events under Turing are based on advanced java libraries, thereby mandating a basic Java course to familiarize people with the language and its possible implementations.</p>
+					<h2>Duration</h2>
+						<p>2 Days</p>
+					<h2>Contact</h2>
+						<h3>Event Head</h3>
+							<p>Projjol Banerji: 9740423012</p>
+
+					
+				]]>
+			</detail>
+			<summary>
+				<![CDATA[ 
+				The Libgdx library is used for 2D games. The aim of the workshop is to introduce and teach participants about the Libgdx library and how it can be used to create a 2d game.
+				]]>
+			</summary>
+		</event>
+</category>
+
+<category color = "che">
+	<event id = "c4e1">
+		<id>c4e1</id>
+		<name>Chem-E-Car</name>
+		<logo><![CDATA[ assets/logo/Cheminova.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Use of Chemical reactions to make a car.</p>
+				<h2>Description</h2>
+				    <p>THE WORKSHOP IS FOR THE EVENT CHEM E CAR WHERE THE TEAMS HAVE TO DESIGN A CAR WHICH RUNS ON CHEMICAL REACTIONS.
+THE TEAMS WILL BE GIVEN COMPLETE INFO ABOUT THE CAR DESIGN AT THE WORKSHOP.THEY WILL BE TOLD ABOUT THE REACTIONS THAT CAN BE USED TO PROPEL THE CAR. THEY WILL ALSO BE SHOWN THE PROTOTYPE OF THE CAR.THEY CAN ALSO CLARIFY ANY DOUBTS REGARDING THE CAR PROTOTYPE AND REACTION.
+THE FIRST ROUND OF THE EVENT WILL BE CONDUCTED AFTER THE WORKSHOP.
+</p>
+				<h2>Duration</h2>
+					<p>2 HRS</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Arjun : +919400965738</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			A workshop on the reactions that can be used for the working of a chemical reaction powered car.
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "biz">
+	<event id = "c3e1">
+		<id>c3e1</id>
+		<name>Wolf of Wall Street</name>
+		<logo><![CDATA[ assets/logo/Bizzmaestro.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>Learning about stocks, how to manage them, the various transaction practices, share forecasting and maximizing profit.</p>
+				<h2>Description</h2>
+				    <p>This workshop will get you acquainted with the nitty gritties of the stock market and also help to hone your business acumen</p>
+				<h2>Duration</h2>
+					<p>1 Day</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Budhaditya Roy (+919740451315)</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			This workshop will get you acquainted with the nitty gritties of the stock market and also help to hone your business acumen.
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "mec">
+	<event id = "c12e1">
+		<id>c12e1</id>
+		<name>Cad it up</name>
+		<logo><![CDATA[ assets/logo/Mechanize.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Problem Statement</h2>
+					<p>To create 3-D models on designing software (SOLID EDGE , CATIA, PRO E….) from the isographic  figures . Teams who get trough will be making soldered models from GI sheet !!!!</p>
+				<h2>Description</h2>
+				    <p>An opportunity for the students to learn the fundamentals of CAD and SOLID EDGE and to showcase their talent in creating something good with hands on experience people.</p>
+				<h2>Duration</h2>
+					<p>2.5 hrs</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Akash Thakore (0974046575)1</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			An opportunity for the students to learn the fundamentals of 
+			 and SOLID EDGE and to showcase their talent in creating something good with hands on experience people.
+			]]>
+		</summary>
+	</event>
+</category>
+
+<category color = "rob">
+	<event id = "c14e1">
+		<id>c14e1</id>
+		<name>Basic Robotics Workshop </name>
+		<logo><![CDATA[ assets/logo/Robotrek.png ]]></logo>
+		<detail>
+			<![CDATA[ 
+				<h2>Description</h2>
+				    <p>Teaching the basics of robotics. From actuators, sensors to microcontrollers.The workshop includes 2 days of practical session also where you'll end up making a bot of your own. </p>
+				<h2>Duration</h2>
+					<p>25th-30th September</p>
+				<h2>Contact</h2>
+					<h3>Event Head</h3>
+						<p>Mayank Gupta (+919740449849)</p>
+			]]>
+		</detail>
+		<summary>
+			<![CDATA[ 
+			Teaching the basics of robotics. From actuators, sensors to microcontrollers.The workshop includes 2 days of practical session also where you'll end up making a bot of your own.
+			]]>
+		</summary>
+	</event>
+</category>
+
+</events>
