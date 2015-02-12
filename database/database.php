@@ -11,10 +11,10 @@ class Database
 	private $HOST;
 	private $con;	
 	function __construct() {
-			$this->DB_NAME = "tt14dbbythenoob";
-			$this->USER    = "uthenoobtt14";
-			$this->PASS    = "*QGiz5qc4G!E";
-			$this->HOST    = "localhost";
+			$this->DB_NAME = "";
+			$this->USER    = "";
+			$this->PASS    = "";
+			$this->HOST    = "";
 			$this->con     = null;
 	}
 	public function connect() {
